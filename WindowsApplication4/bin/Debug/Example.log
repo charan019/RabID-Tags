@@ -1,0 +1,1351 @@
+2017-09-11 17:42:26,325 [9] INFO  -      [WindowsApplication4] Form1_Load() - Start
+2017-09-11 17:42:26,335 [9] DEBUG -      [WindowsApplication4] Form1_Load() - Code Implementation goes here......
+2017-09-11 17:42:26,335 [9] INFO  -      [WindowsApplication4] Form1_Load() - Finish
+2017-09-11 17:42:26,335 [9] INFO  -      [WindowsApplication4] Current Directory:C:\Users\kmgrepos\Desktop\charan\project
+2017-09-11 17:42:28,770 [9] INFO  -      [WindowsApplication4] in enlarge image
+2017-09-11 17:42:28,777 [9] INFO  -      [WindowsApplication4] tabpage3 enter
+2017-09-11 17:42:28,806 [9] INFO  -      [WindowsApplication4] Enlarge image path:C:\Users\kmgrepos\Desktop\charan\project\tags\1\large\5.GIF
+2017-09-11 17:42:28,808 [9] INFO  -      [WindowsApplication4] in typing
+2017-09-11 17:42:28,815 [9] INFO  -      [WindowsApplication4] Integer adjust textbox:5.GIF
+2017-09-11 17:42:28,819 [9] INFO  -      [WindowsApplication4] inf rtb2 focus
+2017-09-11 17:42:28,819 [9] INFO  -      [WindowsApplication4] out of adj
+2017-09-11 17:42:31,580 [9] INFO  -      [WindowsApplication4] font:107
+2017-09-11 17:42:31,584 [9] INFO  -      [WindowsApplication4] font:106
+2017-09-11 17:42:31,587 [9] INFO  -      [WindowsApplication4] font:105
+2017-09-11 17:42:31,590 [9] INFO  -      [WindowsApplication4] font:104
+2017-09-11 17:42:31,594 [9] INFO  -      [WindowsApplication4] font:103
+2017-09-11 17:42:31,597 [9] INFO  -      [WindowsApplication4] font:102
+2017-09-11 17:42:31,601 [9] INFO  -      [WindowsApplication4] font:101
+2017-09-11 17:42:31,604 [9] INFO  -      [WindowsApplication4] font:100
+2017-09-11 17:42:31,607 [9] INFO  -      [WindowsApplication4] font:99
+2017-09-11 17:42:31,609 [9] INFO  -      [WindowsApplication4] font:98
+2017-09-11 17:42:31,611 [9] INFO  -      [WindowsApplication4] font:97
+2017-09-11 17:42:31,612 [9] INFO  -      [WindowsApplication4] font:96
+2017-09-11 17:42:31,613 [9] INFO  -      [WindowsApplication4] font:95
+2017-09-11 17:42:31,615 [9] INFO  -      [WindowsApplication4] font:94
+2017-09-11 17:42:31,616 [9] INFO  -      [WindowsApplication4] font:93
+2017-09-11 17:42:31,617 [9] INFO  -      [WindowsApplication4] font:92
+2017-09-11 17:42:31,619 [9] INFO  -      [WindowsApplication4] font:91
+2017-09-11 17:42:31,620 [9] INFO  -      [WindowsApplication4] font:90
+2017-09-11 17:42:31,624 [9] INFO  -      [WindowsApplication4] font:89
+2017-09-11 17:42:31,625 [9] INFO  -      [WindowsApplication4] font:88
+2017-09-11 17:42:31,627 [9] INFO  -      [WindowsApplication4] font:87
+2017-09-11 17:42:31,628 [9] INFO  -      [WindowsApplication4] font:86
+2017-09-11 17:42:32,129 [9] INFO  -      [WindowsApplication4] font:85
+2017-09-11 17:42:32,130 [9] INFO  -      [WindowsApplication4] font:84
+2017-09-11 17:42:32,131 [9] INFO  -      [WindowsApplication4] font:83
+2017-09-11 17:42:32,132 [9] INFO  -      [WindowsApplication4] font:82
+2017-09-11 17:42:32,133 [9] INFO  -      [WindowsApplication4] font:81
+2017-09-11 17:42:32,134 [9] INFO  -      [WindowsApplication4] font:80
+2017-09-11 17:42:32,136 [9] INFO  -      [WindowsApplication4] font:79
+2017-09-11 17:42:32,137 [9] INFO  -      [WindowsApplication4] font:78
+2017-09-11 17:42:32,138 [9] INFO  -      [WindowsApplication4] font:77
+2017-09-11 17:42:32,139 [9] INFO  -      [WindowsApplication4] font:76
+2017-09-11 17:42:32,140 [9] INFO  -      [WindowsApplication4] font:75
+2017-09-11 17:42:32,142 [9] INFO  -      [WindowsApplication4] font:74
+2017-09-11 17:42:32,143 [9] INFO  -      [WindowsApplication4] font:73
+2017-09-11 17:42:32,144 [9] INFO  -      [WindowsApplication4] font:72
+2017-09-11 17:42:32,145 [9] INFO  -      [WindowsApplication4] font:71
+2017-09-11 17:42:32,146 [9] INFO  -      [WindowsApplication4] font:70
+2017-09-11 17:42:32,476 [9] INFO  -      [WindowsApplication4] font:69
+2017-09-11 17:42:32,480 [9] INFO  -      [WindowsApplication4] font:68
+2017-09-11 17:42:32,483 [9] INFO  -      [WindowsApplication4] font:67
+2017-09-11 17:42:32,486 [9] INFO  -      [WindowsApplication4] font:66
+2017-09-11 17:42:32,490 [9] INFO  -      [WindowsApplication4] font:65
+2017-09-11 17:42:32,493 [9] INFO  -      [WindowsApplication4] font:64
+2017-09-11 17:42:32,497 [9] INFO  -      [WindowsApplication4] font:63
+2017-09-11 17:42:32,500 [9] INFO  -      [WindowsApplication4] font:62
+2017-09-11 17:42:32,504 [9] INFO  -      [WindowsApplication4] font:61
+2017-09-11 17:42:32,508 [9] INFO  -      [WindowsApplication4] font:60
+2017-09-11 17:42:32,510 [9] INFO  -      [WindowsApplication4] font:59
+2017-09-11 17:42:32,513 [9] INFO  -      [WindowsApplication4] font:58
+2017-09-11 17:42:32,514 [9] INFO  -      [WindowsApplication4] font:57
+2017-09-11 17:42:32,515 [9] INFO  -      [WindowsApplication4] font:56
+2017-09-11 17:42:32,517 [9] INFO  -      [WindowsApplication4] font:55
+2017-09-11 17:42:32,518 [9] INFO  -      [WindowsApplication4] font:54
+2017-09-11 17:42:32,520 [9] INFO  -      [WindowsApplication4] font:53
+2017-09-11 17:42:32,522 [9] INFO  -      [WindowsApplication4] font:52
+2017-09-11 17:42:32,523 [9] INFO  -      [WindowsApplication4] font:51
+2017-09-11 17:42:32,525 [9] INFO  -      [WindowsApplication4] font:50
+2017-09-11 17:42:32,762 [9] INFO  -      [WindowsApplication4] font:49
+2017-09-11 17:42:32,764 [9] INFO  -      [WindowsApplication4] font:48
+2017-09-11 17:42:32,765 [9] INFO  -      [WindowsApplication4] font:47
+2017-09-11 17:42:32,768 [9] INFO  -      [WindowsApplication4] font:46
+2017-09-11 17:42:32,770 [9] INFO  -      [WindowsApplication4] font:45
+2017-09-11 17:42:33,343 [9] INFO  -      [WindowsApplication4] start:0,fin:7
+2017-09-11 17:42:33,343 [9] INFO  -      [WindowsApplication4] selcted text:MICHAER
+2017-09-11 17:42:33,343 [9] INFO  -      [WindowsApplication4] total len:7
+2017-09-11 17:42:33,344 [9] INFO  -      [WindowsApplication4] max width:0
+2017-09-11 17:42:33,344 [9] INFO  -      [WindowsApplication4] current width:254
+2017-09-11 17:42:33,344 [9] INFO  -      [WindowsApplication4] h1 and h2 and h3:75,0,0
+2017-09-11 17:42:33,344 [9] INFO  -      [WindowsApplication4] h4 and h5 and h6 and h7:0,0,0,0
+2017-09-11 17:42:33,344 [9] INFO  -      [WindowsApplication4] total:75
+2017-09-11 17:42:33,345 [9] INFO  -      [WindowsApplication4] in backspace:306,280
+2017-09-11 17:42:33,345 [9] INFO  -      [WindowsApplication4] maxw:254,total:75,fontsize:45
+2017-09-11 17:42:33,348 [9] INFO  -      [WindowsApplication4] start:0,fin:7
+2017-09-11 17:42:33,349 [9] INFO  -      [WindowsApplication4] selcted text:MICHAER
+2017-09-11 17:42:33,349 [9] INFO  -      [WindowsApplication4] total len:7
+2017-09-11 17:42:33,349 [9] INFO  -      [WindowsApplication4] max width:0
+2017-09-11 17:42:33,349 [9] INFO  -      [WindowsApplication4] current width:266
+2017-09-11 17:42:33,349 [9] INFO  -      [WindowsApplication4] h1 and h2 and h3:79,0,0
+2017-09-11 17:42:33,349 [9] INFO  -      [WindowsApplication4] h4 and h5 and h6 and h7:0,0,0,0
+2017-09-11 17:42:33,349 [9] INFO  -      [WindowsApplication4] total:79
+2017-09-11 17:42:33,353 [9] INFO  -      [WindowsApplication4] start:0,fin:7
+2017-09-11 17:42:33,354 [9] INFO  -      [WindowsApplication4] selcted text:MICHAER
+2017-09-11 17:42:33,354 [9] INFO  -      [WindowsApplication4] total len:7
+2017-09-11 17:42:33,354 [9] INFO  -      [WindowsApplication4] max width:0
+2017-09-11 17:42:33,354 [9] INFO  -      [WindowsApplication4] current width:275
+2017-09-11 17:42:33,354 [9] INFO  -      [WindowsApplication4] h1 and h2 and h3:82,0,0
+2017-09-11 17:42:33,354 [9] INFO  -      [WindowsApplication4] h4 and h5 and h6 and h7:0,0,0,0
+2017-09-11 17:42:33,354 [9] INFO  -      [WindowsApplication4] total:82
+2017-09-11 17:42:33,359 [9] INFO  -      [WindowsApplication4] start:0,fin:7
+2017-09-11 17:42:33,359 [9] INFO  -      [WindowsApplication4] selcted text:MICHAER
+2017-09-11 17:42:33,359 [9] INFO  -      [WindowsApplication4] total len:7
+2017-09-11 17:42:33,359 [9] INFO  -      [WindowsApplication4] max width:0
+2017-09-11 17:42:33,359 [9] INFO  -      [WindowsApplication4] current width:287
+2017-09-11 17:42:33,359 [9] INFO  -      [WindowsApplication4] h1 and h2 and h3:85,0,0
+2017-09-11 17:42:33,359 [9] INFO  -      [WindowsApplication4] h4 and h5 and h6 and h7:0,0,0,0
+2017-09-11 17:42:33,359 [9] INFO  -      [WindowsApplication4] total:85
+2017-09-11 17:42:33,537 [9] INFO  -      [WindowsApplication4] start:0,fin:6
+2017-09-11 17:42:33,537 [9] INFO  -      [WindowsApplication4] selcted text:MICHAE
+2017-09-11 17:42:33,538 [9] INFO  -      [WindowsApplication4] total len:6
+2017-09-11 17:42:33,538 [9] INFO  -      [WindowsApplication4] max width:0
+2017-09-11 17:42:33,538 [9] INFO  -      [WindowsApplication4] current width:246
+2017-09-11 17:42:33,538 [9] INFO  -      [WindowsApplication4] h1 and h2 and h3:85,0,0
+2017-09-11 17:42:33,538 [9] INFO  -      [WindowsApplication4] h4 and h5 and h6 and h7:0,0,0,0
+2017-09-11 17:42:33,538 [9] INFO  -      [WindowsApplication4] total:85
+2017-09-11 17:42:33,540 [9] INFO  -      [WindowsApplication4] in backspace:306,280
+2017-09-11 17:42:33,540 [9] INFO  -      [WindowsApplication4] maxw:246,total:85,fontsize:51
+2017-09-11 17:42:33,548 [9] INFO  -      [WindowsApplication4] start:0,fin:6
+2017-09-11 17:42:33,548 [9] INFO  -      [WindowsApplication4] selcted text:MICHAE
+2017-09-11 17:42:33,549 [9] INFO  -      [WindowsApplication4] total len:6
+2017-09-11 17:42:33,549 [9] INFO  -      [WindowsApplication4] max width:0
+2017-09-11 17:42:33,549 [9] INFO  -      [WindowsApplication4] current width:257
+2017-09-11 17:42:33,549 [9] INFO  -      [WindowsApplication4] h1 and h2 and h3:89,0,0
+2017-09-11 17:42:33,549 [9] INFO  -      [WindowsApplication4] h4 and h5 and h6 and h7:0,0,0,0
+2017-09-11 17:42:33,549 [9] INFO  -      [WindowsApplication4] total:89
+2017-09-11 17:42:33,559 [9] INFO  -      [WindowsApplication4] start:0,fin:6
+2017-09-11 17:42:33,559 [9] INFO  -      [WindowsApplication4] selcted text:MICHAE
+2017-09-11 17:42:33,559 [9] INFO  -      [WindowsApplication4] total len:6
+2017-09-11 17:42:33,559 [9] INFO  -      [WindowsApplication4] max width:0
+2017-09-11 17:42:33,559 [9] INFO  -      [WindowsApplication4] current width:264
+2017-09-11 17:42:33,559 [9] INFO  -      [WindowsApplication4] h1 and h2 and h3:92,0,0
+2017-09-11 17:42:33,559 [9] INFO  -      [WindowsApplication4] h4 and h5 and h6 and h7:0,0,0,0
+2017-09-11 17:42:33,559 [9] INFO  -      [WindowsApplication4] total:92
+2017-09-11 17:42:33,564 [9] INFO  -      [WindowsApplication4] start:0,fin:6
+2017-09-11 17:42:33,565 [9] INFO  -      [WindowsApplication4] selcted text:MICHAE
+2017-09-11 17:42:33,565 [9] INFO  -      [WindowsApplication4] total len:6
+2017-09-11 17:42:33,565 [9] INFO  -      [WindowsApplication4] max width:0
+2017-09-11 17:42:33,565 [9] INFO  -      [WindowsApplication4] current width:275
+2017-09-11 17:42:33,565 [9] INFO  -      [WindowsApplication4] h1 and h2 and h3:96,0,0
+2017-09-11 17:42:33,565 [9] INFO  -      [WindowsApplication4] h4 and h5 and h6 and h7:0,0,0,0
+2017-09-11 17:42:33,565 [9] INFO  -      [WindowsApplication4] total:96
+2017-09-11 17:42:33,569 [9] INFO  -      [WindowsApplication4] start:0,fin:6
+2017-09-11 17:42:33,569 [9] INFO  -      [WindowsApplication4] selcted text:MICHAE
+2017-09-11 17:42:33,569 [9] INFO  -      [WindowsApplication4] total len:6
+2017-09-11 17:42:33,570 [9] INFO  -      [WindowsApplication4] max width:0
+2017-09-11 17:42:33,570 [9] INFO  -      [WindowsApplication4] current width:286
+2017-09-11 17:42:33,570 [9] INFO  -      [WindowsApplication4] h1 and h2 and h3:99,0,0
+2017-09-11 17:42:33,570 [9] INFO  -      [WindowsApplication4] h4 and h5 and h6 and h7:0,0,0,0
+2017-09-11 17:42:33,570 [9] INFO  -      [WindowsApplication4] total:99
+2017-09-11 17:42:34,415 [9] INFO  -      [WindowsApplication4] font:58
+2017-09-11 17:42:34,418 [9] INFO  -      [WindowsApplication4] font:57
+2017-09-11 17:42:34,420 [9] INFO  -      [WindowsApplication4] font:56
+2017-09-11 17:42:34,423 [9] INFO  -      [WindowsApplication4] font:55
+2017-09-11 17:42:34,425 [9] INFO  -      [WindowsApplication4] font:54
+2017-09-11 17:42:34,428 [9] INFO  -      [WindowsApplication4] font:53
+2017-09-11 17:42:34,430 [9] INFO  -      [WindowsApplication4] font:52
+2017-09-11 17:42:34,431 [9] INFO  -      [WindowsApplication4] font:51
+2017-09-11 17:42:34,433 [9] INFO  -      [WindowsApplication4] font:50
+2017-09-11 17:42:34,434 [9] INFO  -      [WindowsApplication4] font:49
+2017-09-11 17:42:34,435 [9] INFO  -      [WindowsApplication4] font:48
+2017-09-11 17:42:34,437 [9] INFO  -      [WindowsApplication4] font:47
+2017-09-11 17:42:34,438 [9] INFO  -      [WindowsApplication4] font:46
+2017-09-11 17:42:34,759 [9] INFO  -      [WindowsApplication4] text:9
+2017-09-11 17:42:34,762 [9] INFO  -      [WindowsApplication4] ft1:Arial Narrow
+2017-09-11 17:42:34,763 [9] INFO  -      [WindowsApplication4] ft2:Arial Narrow
+2017-09-11 17:42:34,763 [9] INFO  -      [WindowsApplication4] In height loop
+2017-09-11 17:42:34,764 [9] INFO  -      [WindowsApplication4] start:0,fin:8
+2017-09-11 17:42:34,764 [9] INFO  -      [WindowsApplication4] selcted text:MICHAEEL
+2017-09-11 17:42:34,765 [9] INFO  -      [WindowsApplication4] start:8,fin:0
+2017-09-11 17:42:34,765 [9] INFO  -      [WindowsApplication4] selcted text:
+2017-09-11 17:42:34,765 [9] INFO  -      [WindowsApplication4] rh2:0
+2017-09-11 17:42:34,765 [9] INFO  -      [WindowsApplication4] total len:9
+2017-09-11 17:42:34,765 [9] INFO  -      [WindowsApplication4] max width:284
+2017-09-11 17:42:34,765 [9] INFO  -      [WindowsApplication4] current width:0
+2017-09-11 17:42:34,765 [9] INFO  -      [WindowsApplication4] h1 and h2 and h3:77,0,0
+2017-09-11 17:42:34,765 [9] INFO  -      [WindowsApplication4] h4 and h5 and h6 and h7:0,0,0,0
+2017-09-11 17:42:34,765 [9] INFO  -      [WindowsApplication4] total:77
+2017-09-11 17:42:34,765 [9] INFO  -      [WindowsApplication4] val:234rtb height:280
+2017-09-11 17:42:35,855 [9] INFO  -      [WindowsApplication4] start:0,fin:8
+2017-09-11 17:42:35,855 [9] INFO  -      [WindowsApplication4] selcted text:MICHAEEL
+2017-09-11 17:42:35,855 [9] INFO  -      [WindowsApplication4] total len:8
+2017-09-11 17:42:35,855 [9] INFO  -      [WindowsApplication4] max width:0
+2017-09-11 17:42:35,855 [9] INFO  -      [WindowsApplication4] current width:284
+2017-09-11 17:42:35,855 [9] INFO  -      [WindowsApplication4] h1 and h2 and h3:77,0,0
+2017-09-11 17:42:35,855 [9] INFO  -      [WindowsApplication4] h4 and h5 and h6 and h7:0,0,0,0
+2017-09-11 17:42:35,855 [9] INFO  -      [WindowsApplication4] total:77
+2017-09-11 17:42:35,856 [9] INFO  -      [WindowsApplication4] in backspace:306,280
+2017-09-11 17:42:35,856 [9] INFO  -      [WindowsApplication4] maxw:284,total:77,fontsize:46
+2017-09-11 17:42:36,306 [9] INFO  -      [WindowsApplication4] start:0,fin:7
+2017-09-11 17:42:36,306 [9] INFO  -      [WindowsApplication4] selcted text:MICHAEE
+2017-09-11 17:42:36,306 [9] INFO  -      [WindowsApplication4] total len:7
+2017-09-11 17:42:36,306 [9] INFO  -      [WindowsApplication4] max width:0
+2017-09-11 17:42:36,307 [9] INFO  -      [WindowsApplication4] current width:255
+2017-09-11 17:42:36,307 [9] INFO  -      [WindowsApplication4] h1 and h2 and h3:77,0,0
+2017-09-11 17:42:36,307 [9] INFO  -      [WindowsApplication4] h4 and h5 and h6 and h7:0,0,0,0
+2017-09-11 17:42:36,307 [9] INFO  -      [WindowsApplication4] total:77
+2017-09-11 17:42:36,308 [9] INFO  -      [WindowsApplication4] in backspace:306,280
+2017-09-11 17:42:36,309 [9] INFO  -      [WindowsApplication4] maxw:255,total:77,fontsize:46
+2017-09-11 17:42:36,317 [9] INFO  -      [WindowsApplication4] start:0,fin:7
+2017-09-11 17:42:36,317 [9] INFO  -      [WindowsApplication4] selcted text:MICHAEE
+2017-09-11 17:42:36,318 [9] INFO  -      [WindowsApplication4] total len:7
+2017-09-11 17:42:36,318 [9] INFO  -      [WindowsApplication4] max width:0
+2017-09-11 17:42:36,318 [9] INFO  -      [WindowsApplication4] current width:268
+2017-09-11 17:42:36,318 [9] INFO  -      [WindowsApplication4] h1 and h2 and h3:80,0,0
+2017-09-11 17:42:36,318 [9] INFO  -      [WindowsApplication4] h4 and h5 and h6 and h7:0,0,0,0
+2017-09-11 17:42:36,318 [9] INFO  -      [WindowsApplication4] total:80
+2017-09-11 17:42:36,327 [9] INFO  -      [WindowsApplication4] start:0,fin:7
+2017-09-11 17:42:36,328 [9] INFO  -      [WindowsApplication4] selcted text:MICHAEE
+2017-09-11 17:42:36,328 [9] INFO  -      [WindowsApplication4] total len:7
+2017-09-11 17:42:36,328 [9] INFO  -      [WindowsApplication4] max width:0
+2017-09-11 17:42:36,328 [9] INFO  -      [WindowsApplication4] current width:280
+2017-09-11 17:42:36,328 [9] INFO  -      [WindowsApplication4] h1 and h2 and h3:84,0,0
+2017-09-11 17:42:36,328 [9] INFO  -      [WindowsApplication4] h4 and h5 and h6 and h7:0,0,0,0
+2017-09-11 17:42:36,328 [9] INFO  -      [WindowsApplication4] total:84
+2017-09-11 17:42:36,527 [9] INFO  -      [WindowsApplication4] start:0,fin:6
+2017-09-11 17:42:36,527 [9] INFO  -      [WindowsApplication4] selcted text:MICHAE
+2017-09-11 17:42:36,527 [9] INFO  -      [WindowsApplication4] total len:6
+2017-09-11 17:42:36,527 [9] INFO  -      [WindowsApplication4] max width:0
+2017-09-11 17:42:36,527 [9] INFO  -      [WindowsApplication4] current width:242
+2017-09-11 17:42:36,527 [9] INFO  -      [WindowsApplication4] h1 and h2 and h3:84,0,0
+2017-09-11 17:42:36,527 [9] INFO  -      [WindowsApplication4] h4 and h5 and h6 and h7:0,0,0,0
+2017-09-11 17:42:36,527 [9] INFO  -      [WindowsApplication4] total:84
+2017-09-11 17:42:36,528 [9] INFO  -      [WindowsApplication4] in backspace:306,280
+2017-09-11 17:42:36,528 [9] INFO  -      [WindowsApplication4] maxw:242,total:84,fontsize:50
+2017-09-11 17:42:36,536 [9] INFO  -      [WindowsApplication4] start:0,fin:6
+2017-09-11 17:42:36,536 [9] INFO  -      [WindowsApplication4] selcted text:MICHAE
+2017-09-11 17:42:36,539 [9] INFO  -      [WindowsApplication4] total len:6
+2017-09-11 17:42:36,539 [9] INFO  -      [WindowsApplication4] max width:0
+2017-09-11 17:42:36,539 [9] INFO  -      [WindowsApplication4] current width:250
+2017-09-11 17:42:36,539 [9] INFO  -      [WindowsApplication4] h1 and h2 and h3:87,0,0
+2017-09-11 17:42:36,539 [9] INFO  -      [WindowsApplication4] h4 and h5 and h6 and h7:0,0,0,0
+2017-09-11 17:42:36,539 [9] INFO  -      [WindowsApplication4] total:87
+2017-09-11 17:42:36,549 [9] INFO  -      [WindowsApplication4] start:0,fin:6
+2017-09-11 17:42:36,549 [9] INFO  -      [WindowsApplication4] selcted text:MICHAE
+2017-09-11 17:42:36,550 [9] INFO  -      [WindowsApplication4] total len:6
+2017-09-11 17:42:36,550 [9] INFO  -      [WindowsApplication4] max width:0
+2017-09-11 17:42:36,550 [9] INFO  -      [WindowsApplication4] current width:260
+2017-09-11 17:42:36,550 [9] INFO  -      [WindowsApplication4] h1 and h2 and h3:91,0,0
+2017-09-11 17:42:36,550 [9] INFO  -      [WindowsApplication4] h4 and h5 and h6 and h7:0,0,0,0
+2017-09-11 17:42:36,550 [9] INFO  -      [WindowsApplication4] total:91
+2017-09-11 17:42:36,560 [9] INFO  -      [WindowsApplication4] start:0,fin:6
+2017-09-11 17:42:36,560 [9] INFO  -      [WindowsApplication4] selcted text:MICHAE
+2017-09-11 17:42:36,560 [9] INFO  -      [WindowsApplication4] total len:6
+2017-09-11 17:42:36,560 [9] INFO  -      [WindowsApplication4] max width:0
+2017-09-11 17:42:36,560 [9] INFO  -      [WindowsApplication4] current width:271
+2017-09-11 17:42:36,560 [9] INFO  -      [WindowsApplication4] h1 and h2 and h3:94,0,0
+2017-09-11 17:42:36,560 [9] INFO  -      [WindowsApplication4] h4 and h5 and h6 and h7:0,0,0,0
+2017-09-11 17:42:36,560 [9] INFO  -      [WindowsApplication4] total:94
+2017-09-11 17:42:36,565 [9] INFO  -      [WindowsApplication4] start:0,fin:6
+2017-09-11 17:42:36,565 [9] INFO  -      [WindowsApplication4] selcted text:MICHAE
+2017-09-11 17:42:36,565 [9] INFO  -      [WindowsApplication4] total len:6
+2017-09-11 17:42:36,565 [9] INFO  -      [WindowsApplication4] max width:0
+2017-09-11 17:42:36,565 [9] INFO  -      [WindowsApplication4] current width:279
+2017-09-11 17:42:36,565 [9] INFO  -      [WindowsApplication4] h1 and h2 and h3:97,0,0
+2017-09-11 17:42:36,565 [9] INFO  -      [WindowsApplication4] h4 and h5 and h6 and h7:0,0,0,0
+2017-09-11 17:42:36,565 [9] INFO  -      [WindowsApplication4] total:97
+2017-09-11 17:42:37,840 [9] INFO  -      [WindowsApplication4] font:57
+2017-09-11 17:42:37,841 [9] INFO  -      [WindowsApplication4] font:56
+2017-09-11 17:42:37,841 [9] INFO  -      [WindowsApplication4] font:55
+2017-09-11 17:42:37,842 [9] INFO  -      [WindowsApplication4] font:54
+2017-09-11 17:42:37,843 [9] INFO  -      [WindowsApplication4] font:53
+2017-09-11 17:42:37,844 [9] INFO  -      [WindowsApplication4] font:52
+2017-09-11 17:42:37,943 [9] INFO  -      [WindowsApplication4] text:8
+2017-09-11 17:42:37,946 [9] INFO  -      [WindowsApplication4] ft1:Arial Narrow
+2017-09-11 17:42:37,948 [9] INFO  -      [WindowsApplication4] ft2:Arial Narrow
+2017-09-11 17:42:37,948 [9] INFO  -      [WindowsApplication4] In height loop
+2017-09-11 17:42:37,954 [9] INFO  -      [WindowsApplication4] start:0,fin:7
+2017-09-11 17:42:37,956 [9] INFO  -      [WindowsApplication4] selcted text:MICHAEL
+2017-09-11 17:42:37,958 [9] INFO  -      [WindowsApplication4] start:7,fin:0
+2017-09-11 17:42:37,958 [9] INFO  -      [WindowsApplication4] selcted text:
+2017-09-11 17:42:37,958 [9] INFO  -      [WindowsApplication4] rh2:0
+2017-09-11 17:42:37,958 [9] INFO  -      [WindowsApplication4] total len:8
+2017-09-11 17:42:37,958 [9] INFO  -      [WindowsApplication4] max width:282
+2017-09-11 17:42:37,958 [9] INFO  -      [WindowsApplication4] current width:0
+2017-09-11 17:42:37,959 [9] INFO  -      [WindowsApplication4] h1 and h2 and h3:87,0,0
+2017-09-11 17:42:37,959 [9] INFO  -      [WindowsApplication4] h4 and h5 and h6 and h7:0,0,0,0
+2017-09-11 17:42:37,959 [9] INFO  -      [WindowsApplication4] total:87
+2017-09-11 17:42:37,959 [9] INFO  -      [WindowsApplication4] val:228rtb height:280
+2017-09-11 17:42:40,672 [9] INFO  -      [WindowsApplication4] fstyle:Italic
+2017-09-11 17:42:40,672 [9] INFO  -      [WindowsApplication4] fontname:Monotype Corsiva
+2017-09-11 17:42:40,676 [9] INFO  -      [WindowsApplication4] w2:229.124RTB width:306
+2017-09-11 17:42:40,679 [9] INFO  -      [WindowsApplication4] inf rtb2 focus
+2017-09-11 17:42:40,679 [9] INFO  -      [WindowsApplication4] selction start:8
+2017-09-11 17:42:42,315 [9] INFO  -      [WindowsApplication4] cursorPos:0
+2017-09-11 17:42:42,316 [9] INFO  -      [WindowsApplication4] fontname:Arial Narrow
+2017-09-11 17:42:42,316 [9] INFO  -      [WindowsApplication4] fstyle:Regular
+2017-09-11 17:42:42,316 [9] INFO  -      [WindowsApplication4] fontname:Arial Narrow
+2017-09-11 17:42:42,317 [9] INFO  -      [WindowsApplication4] w2:282.0195RTB width:306
+2017-09-11 17:42:42,317 [9] INFO  -      [WindowsApplication4] RTB selection size:51.75
+2017-09-11 17:42:42,319 [9] INFO  -      [WindowsApplication4] w2:271.1202RTB width:306
+2017-09-11 17:42:42,319 [9] INFO  -      [WindowsApplication4] RTB selection size:49.75
+2017-09-11 17:42:42,320 [9] INFO  -      [WindowsApplication4] w2:260.2209RTB width:306
+2017-09-11 17:42:42,320 [9] INFO  -      [WindowsApplication4] rtf1:Arial Narrow
+2017-09-11 17:42:42,320 [9] INFO  -      [WindowsApplication4] in font2:48
+2017-09-11 17:42:42,322 [9] INFO  -      [WindowsApplication4] inf rtb2 focus
+2017-09-11 17:42:42,322 [9] INFO  -      [WindowsApplication4] selction start:0
+2017-09-11 17:42:42,755 [9] INFO  -      [WindowsApplication4] fstyle:Italic
+2017-09-11 17:42:42,755 [9] INFO  -      [WindowsApplication4] fontname:Monotype Corsiva
+2017-09-11 17:42:42,756 [9] INFO  -      [WindowsApplication4] w2:299.2975RTB width:306
+2017-09-11 17:42:42,756 [9] INFO  -      [WindowsApplication4] RTB selection size:47.75
+2017-09-11 17:42:42,757 [9] INFO  -      [WindowsApplication4] w2:286.7615RTB width:306
+2017-09-11 17:42:42,757 [9] INFO  -      [WindowsApplication4] RTB selection size:45.75
+2017-09-11 17:42:42,758 [9] INFO  -      [WindowsApplication4] w2:274.2255RTB width:306
+2017-09-11 17:42:42,758 [9] INFO  -      [WindowsApplication4] RTB selection size:43.75
+2017-09-11 17:42:42,759 [9] INFO  -      [WindowsApplication4] w2:261.6895RTB width:306
+2017-09-11 17:42:42,760 [9] INFO  -      [WindowsApplication4] rtf1:Monotype Corsiva
+2017-09-11 17:42:42,760 [9] INFO  -      [WindowsApplication4] in font2:48
+2017-09-11 17:42:42,762 [9] INFO  -      [WindowsApplication4] inf rtb2 focus
+2017-09-11 17:42:42,763 [9] INFO  -      [WindowsApplication4] selction start:0
+2017-09-11 17:42:43,494 [9] INFO  -      [WindowsApplication4] ft1:Monotype Corsiva
+2017-09-11 17:42:43,495 [9] INFO  -      [WindowsApplication4] ft2:Monotype Corsiva
+2017-09-11 17:42:43,499 [9] INFO  -      [WindowsApplication4] Panel1:False
+2017-09-11 17:42:43,499 [9] INFO  -      [WindowsApplication4] not in multi tag engraving:2
+2017-09-11 17:42:43,500 [9] INFO  -      [WindowsApplication4] RT2:MICHAEL
+2017-09-11 17:42:43,500 [9] INFO  -      [WindowsApplication4] RT2:RABID
+2017-09-11 17:42:43,500 [9] INFO  -      [WindowsApplication4] rt length:2
+2017-09-11 17:42:43,507 [9] INFO  -      [WindowsApplication4] lines length:2
+2017-09-11 17:42:43,507 [9] INFO  -      [WindowsApplication4] i length:7
+2017-09-11 17:42:43,507 [9] INFO  -      [WindowsApplication4] chars:M
+2017-09-11 17:42:43,511 [9] INFO  -      [WindowsApplication4] tag no:5
+2017-09-11 17:42:43,511 [9] INFO  -      [WindowsApplication4] s:6tag:5
+2017-09-11 17:42:43,511 [9] INFO  -      [WindowsApplication4] s:25tag:5
+2017-09-11 17:42:43,511 [9] INFO  -      [WindowsApplication4] s:20tag:5
+2017-09-11 17:42:43,511 [9] INFO  -      [WindowsApplication4] s:1tag:5
+2017-09-11 17:42:43,511 [9] INFO  -      [WindowsApplication4] s:5tag:5
+2017-09-11 17:42:43,511 [9] INFO  -      [WindowsApplication4] in tag match
+2017-09-11 17:42:43,512 [9] INFO  -      [WindowsApplication4] Area of the tag:0.7104654
+2017-09-11 17:42:43,512 [9] INFO  -      [WindowsApplication4] Area of the tag:0.7
+2017-09-11 17:42:43,513 [9] INFO  -      [WindowsApplication4] lnum:1
+2017-09-11 17:42:43,513 [9] INFO  -      [WindowsApplication4] font name:Monotype Corsiva
+2017-09-11 17:42:43,513 [9] INFO  -      [WindowsApplication4] size:14
+2017-09-11 17:42:43,513 [9] INFO  -      [WindowsApplication4] path:C:\Users\kmgrepos\Desktop\charan\project\tags\meta\characters\upper\Monotype Corsiva_M_3.42857142857143.plt
+2017-09-11 17:42:43,514 [9] INFO  -      [WindowsApplication4] ratio in normalize:3.42857142857143
+2017-09-11 17:42:43,515 [9] INFO  -      [WindowsApplication4] list length:31
+2017-09-11 17:42:43,515 [9] INFO  -      [WindowsApplication4] list length:31
+2017-09-11 17:42:43,516 [9] INFO  -      [WindowsApplication4] i length:7
+2017-09-11 17:42:43,516 [9] INFO  -      [WindowsApplication4] chars:I
+2017-09-11 17:42:43,517 [9] INFO  -      [WindowsApplication4] tag no:5
+2017-09-11 17:42:43,517 [9] INFO  -      [WindowsApplication4] s:6tag:5
+2017-09-11 17:42:43,517 [9] INFO  -      [WindowsApplication4] s:25tag:5
+2017-09-11 17:42:43,517 [9] INFO  -      [WindowsApplication4] s:20tag:5
+2017-09-11 17:42:43,517 [9] INFO  -      [WindowsApplication4] s:1tag:5
+2017-09-11 17:42:43,517 [9] INFO  -      [WindowsApplication4] s:5tag:5
+2017-09-11 17:42:43,517 [9] INFO  -      [WindowsApplication4] in tag match
+2017-09-11 17:42:43,517 [9] INFO  -      [WindowsApplication4] Area of the tag:0.7104654
+2017-09-11 17:42:43,517 [9] INFO  -      [WindowsApplication4] Area of the tag:0.7
+2017-09-11 17:42:43,517 [9] INFO  -      [WindowsApplication4] lnum:1
+2017-09-11 17:42:43,517 [9] INFO  -      [WindowsApplication4] font name:Monotype Corsiva
+2017-09-11 17:42:43,517 [9] INFO  -      [WindowsApplication4] size:14
+2017-09-11 17:42:43,517 [9] INFO  -      [WindowsApplication4] path:C:\Users\kmgrepos\Desktop\charan\project\tags\meta\characters\upper\Monotype Corsiva_I_3.42857142857143.plt
+2017-09-11 17:42:43,517 [9] INFO  -      [WindowsApplication4] ratio in normalize:3.42857142857143
+2017-09-11 17:42:43,517 [9] INFO  -      [WindowsApplication4] list length:11
+2017-09-11 17:42:43,517 [9] INFO  -      [WindowsApplication4] list length:11
+2017-09-11 17:42:43,522 [9] INFO  -      [WindowsApplication4] data:50
+2017-09-11 17:42:43,522 [9] INFO  -      [WindowsApplication4] data:38
+2017-09-11 17:42:43,522 [9] INFO  -      [WindowsApplication4] data:23
+2017-09-11 17:42:43,522 [9] INFO  -      [WindowsApplication4] data:0
+2017-09-11 17:42:43,522 [9] INFO  -      [WindowsApplication4] data:28
+2017-09-11 17:42:43,522 [9] INFO  -      [WindowsApplication4] data:32
+2017-09-11 17:42:43,522 [9] INFO  -      [WindowsApplication4] data:43
+2017-09-11 17:42:43,522 [9] INFO  -      [WindowsApplication4] data:55
+2017-09-11 17:42:43,522 [9] INFO  -      [WindowsApplication4] data:31
+2017-09-11 17:42:43,522 [9] INFO  -      [WindowsApplication4] data:59
+2017-09-11 17:42:43,522 [9] INFO  -      [WindowsApplication4] data:81
+2017-09-11 17:42:43,522 [9] INFO  -      [WindowsApplication4] list length:11
+2017-09-11 17:42:43,523 [9] INFO  -      [WindowsApplication4] max:139,min:181
+2017-09-11 17:42:43,523 [9] INFO  -      [WindowsApplication4] in odiff:28
+2017-09-11 17:42:43,523 [9] INFO  -      [WindowsApplication4] minc:0
+2017-09-11 17:42:43,523 [9] INFO  -      [WindowsApplication4] IN FLAG GPLT:50
+2017-09-11 17:42:43,523 [9] INFO  -      [WindowsApplication4] i length:7
+2017-09-11 17:42:43,523 [9] INFO  -      [WindowsApplication4] chars:C
+2017-09-11 17:42:43,523 [9] INFO  -      [WindowsApplication4] tag no:5
+2017-09-11 17:42:43,523 [9] INFO  -      [WindowsApplication4] s:6tag:5
+2017-09-11 17:42:43,523 [9] INFO  -      [WindowsApplication4] s:25tag:5
+2017-09-11 17:42:43,523 [9] INFO  -      [WindowsApplication4] s:20tag:5
+2017-09-11 17:42:43,523 [9] INFO  -      [WindowsApplication4] s:1tag:5
+2017-09-11 17:42:43,523 [9] INFO  -      [WindowsApplication4] s:5tag:5
+2017-09-11 17:42:43,524 [9] INFO  -      [WindowsApplication4] in tag match
+2017-09-11 17:42:43,524 [9] INFO  -      [WindowsApplication4] Area of the tag:0.7104654
+2017-09-11 17:42:43,524 [9] INFO  -      [WindowsApplication4] Area of the tag:0.7
+2017-09-11 17:42:43,524 [9] INFO  -      [WindowsApplication4] lnum:1
+2017-09-11 17:42:43,524 [9] INFO  -      [WindowsApplication4] font name:Monotype Corsiva
+2017-09-11 17:42:43,524 [9] INFO  -      [WindowsApplication4] size:14
+2017-09-11 17:42:43,524 [9] INFO  -      [WindowsApplication4] path:C:\Users\kmgrepos\Desktop\charan\project\tags\meta\characters\upper\Monotype Corsiva_C_3.42857142857143.plt
+2017-09-11 17:42:43,524 [9] INFO  -      [WindowsApplication4] ratio in normalize:3.42857142857143
+2017-09-11 17:42:43,524 [9] INFO  -      [WindowsApplication4] list length:22
+2017-09-11 17:42:43,524 [9] INFO  -      [WindowsApplication4] list length:22
+2017-09-11 17:42:43,525 [9] INFO  -      [WindowsApplication4] data:96
+2017-09-11 17:42:43,525 [9] INFO  -      [WindowsApplication4] data:98
+2017-09-11 17:42:43,526 [9] INFO  -      [WindowsApplication4] data:102
+2017-09-11 17:42:43,526 [9] INFO  -      [WindowsApplication4] data:82
+2017-09-11 17:42:43,526 [9] INFO  -      [WindowsApplication4] data:71
+2017-09-11 17:42:43,526 [9] INFO  -      [WindowsApplication4] data:55
+2017-09-11 17:42:43,526 [9] INFO  -      [WindowsApplication4] data:39
+2017-09-11 17:42:43,526 [9] INFO  -      [WindowsApplication4] data:24
+2017-09-11 17:42:43,526 [9] INFO  -      [WindowsApplication4] data:11
+2017-09-11 17:42:43,526 [9] INFO  -      [WindowsApplication4] data:3
+2017-09-11 17:42:43,526 [9] INFO  -      [WindowsApplication4] data:0
+2017-09-11 17:42:43,526 [9] INFO  -      [WindowsApplication4] data:1
+2017-09-11 17:42:43,526 [9] INFO  -      [WindowsApplication4] data:5
+2017-09-11 17:42:43,526 [9] INFO  -      [WindowsApplication4] data:12
+2017-09-11 17:42:43,526 [9] INFO  -      [WindowsApplication4] data:21
+2017-09-11 17:42:43,526 [9] INFO  -      [WindowsApplication4] data:31
+2017-09-11 17:42:43,526 [9] INFO  -      [WindowsApplication4] data:42
+2017-09-11 17:42:43,526 [9] INFO  -      [WindowsApplication4] data:51
+2017-09-11 17:42:43,526 [9] INFO  -      [WindowsApplication4] data:61
+2017-09-11 17:42:43,526 [9] INFO  -      [WindowsApplication4] data:77
+2017-09-11 17:42:43,526 [9] INFO  -      [WindowsApplication4] data:84
+2017-09-11 17:42:43,526 [9] INFO  -      [WindowsApplication4] data:83
+2017-09-11 17:42:43,526 [9] INFO  -      [WindowsApplication4] list length:22
+2017-09-11 17:42:43,526 [9] INFO  -      [WindowsApplication4] max:199,min:241
+2017-09-11 17:42:43,526 [9] INFO  -      [WindowsApplication4] in odiff:28
+2017-09-11 17:42:43,526 [9] INFO  -      [WindowsApplication4] minc:0
+2017-09-11 17:42:43,526 [9] INFO  -      [WindowsApplication4] IN FLAG GPLT:96
+2017-09-11 17:42:43,526 [9] INFO  -      [WindowsApplication4] i length:7
+2017-09-11 17:42:43,526 [9] INFO  -      [WindowsApplication4] chars:H
+2017-09-11 17:42:43,526 [9] INFO  -      [WindowsApplication4] tag no:5
+2017-09-11 17:42:43,526 [9] INFO  -      [WindowsApplication4] s:6tag:5
+2017-09-11 17:42:43,526 [9] INFO  -      [WindowsApplication4] s:25tag:5
+2017-09-11 17:42:43,526 [9] INFO  -      [WindowsApplication4] s:20tag:5
+2017-09-11 17:42:43,526 [9] INFO  -      [WindowsApplication4] s:1tag:5
+2017-09-11 17:42:43,526 [9] INFO  -      [WindowsApplication4] s:5tag:5
+2017-09-11 17:42:43,526 [9] INFO  -      [WindowsApplication4] in tag match
+2017-09-11 17:42:43,526 [9] INFO  -      [WindowsApplication4] Area of the tag:0.7104654
+2017-09-11 17:42:43,526 [9] INFO  -      [WindowsApplication4] Area of the tag:0.7
+2017-09-11 17:42:43,526 [9] INFO  -      [WindowsApplication4] lnum:1
+2017-09-11 17:42:43,527 [9] INFO  -      [WindowsApplication4] font name:Monotype Corsiva
+2017-09-11 17:42:43,527 [9] INFO  -      [WindowsApplication4] size:14
+2017-09-11 17:42:43,527 [9] INFO  -      [WindowsApplication4] path:C:\Users\kmgrepos\Desktop\charan\project\tags\meta\characters\upper\Monotype Corsiva_H_3.42857142857143.plt
+2017-09-11 17:42:43,527 [9] INFO  -      [WindowsApplication4] ratio in normalize:3.42857142857143
+2017-09-11 17:42:43,527 [9] INFO  -      [WindowsApplication4] list length:28
+2017-09-11 17:42:43,527 [9] INFO  -      [WindowsApplication4] list length:28
+2017-09-11 17:42:43,528 [9] INFO  -      [WindowsApplication4] data:123
+2017-09-11 17:42:43,528 [9] INFO  -      [WindowsApplication4] data:114
+2017-09-11 17:42:43,528 [9] INFO  -      [WindowsApplication4] data:105
+2017-09-11 17:42:43,528 [9] INFO  -      [WindowsApplication4] data:101
+2017-09-11 17:42:43,528 [9] INFO  -      [WindowsApplication4] data:116
+2017-09-11 17:42:43,528 [9] INFO  -      [WindowsApplication4] data:130
+2017-09-11 17:42:43,528 [9] INFO  -      [WindowsApplication4] data:137
+2017-09-11 17:42:43,528 [9] INFO  -      [WindowsApplication4] data:144
+2017-09-11 17:42:43,528 [9] INFO  -      [WindowsApplication4] data:152
+2017-09-11 17:42:43,528 [9] INFO  -      [WindowsApplication4] data:159
+2017-09-11 17:42:43,528 [9] INFO  -      [WindowsApplication4] data:163
+2017-09-11 17:42:43,528 [9] INFO  -      [WindowsApplication4] data:24
+2017-09-11 17:42:43,528 [9] INFO  -      [WindowsApplication4] data:21
+2017-09-11 17:42:43,528 [9] INFO  -      [WindowsApplication4] data:19
+2017-09-11 17:42:43,528 [9] INFO  -      [WindowsApplication4] data:21
+2017-09-11 17:42:43,528 [9] INFO  -      [WindowsApplication4] data:28
+2017-09-11 17:42:43,528 [9] INFO  -      [WindowsApplication4] data:41
+2017-09-11 17:42:43,528 [9] INFO  -      [WindowsApplication4] data:58
+2017-09-11 17:42:43,528 [9] INFO  -      [WindowsApplication4] data:48
+2017-09-11 17:42:43,528 [9] INFO  -      [WindowsApplication4] data:37
+2017-09-11 17:42:43,528 [9] INFO  -      [WindowsApplication4] data:29
+2017-09-11 17:42:43,528 [9] INFO  -      [WindowsApplication4] data:22
+2017-09-11 17:42:43,528 [9] INFO  -      [WindowsApplication4] data:15
+2017-09-11 17:42:43,528 [9] INFO  -      [WindowsApplication4] data:11
+2017-09-11 17:42:43,528 [9] INFO  -      [WindowsApplication4] data:7
+2017-09-11 17:42:43,528 [9] INFO  -      [WindowsApplication4] data:0
+2017-09-11 17:42:43,528 [9] INFO  -      [WindowsApplication4] data:115
+2017-09-11 17:42:43,528 [9] INFO  -      [WindowsApplication4] data:46
+2017-09-11 17:42:43,528 [9] INFO  -      [WindowsApplication4] list length:28
+2017-09-11 17:42:43,529 [9] INFO  -      [WindowsApplication4] max:350,min:392
+2017-09-11 17:42:43,529 [9] INFO  -      [WindowsApplication4] minc:0
+2017-09-11 17:42:43,529 [9] INFO  -      [WindowsApplication4] IN FLAG GPLT:123
+2017-09-11 17:42:43,529 [9] INFO  -      [WindowsApplication4] i length:7
+2017-09-11 17:42:43,529 [9] INFO  -      [WindowsApplication4] chars:A
+2017-09-11 17:42:43,529 [9] INFO  -      [WindowsApplication4] tag no:5
+2017-09-11 17:42:43,529 [9] INFO  -      [WindowsApplication4] s:6tag:5
+2017-09-11 17:42:43,529 [9] INFO  -      [WindowsApplication4] s:25tag:5
+2017-09-11 17:42:43,529 [9] INFO  -      [WindowsApplication4] s:20tag:5
+2017-09-11 17:42:43,529 [9] INFO  -      [WindowsApplication4] s:1tag:5
+2017-09-11 17:42:43,529 [9] INFO  -      [WindowsApplication4] s:5tag:5
+2017-09-11 17:42:43,529 [9] INFO  -      [WindowsApplication4] in tag match
+2017-09-11 17:42:43,529 [9] INFO  -      [WindowsApplication4] Area of the tag:0.7104654
+2017-09-11 17:42:43,529 [9] INFO  -      [WindowsApplication4] Area of the tag:0.7
+2017-09-11 17:42:43,529 [9] INFO  -      [WindowsApplication4] lnum:1
+2017-09-11 17:42:43,529 [9] INFO  -      [WindowsApplication4] font name:Monotype Corsiva
+2017-09-11 17:42:43,529 [9] INFO  -      [WindowsApplication4] size:14
+2017-09-11 17:42:43,529 [9] INFO  -      [WindowsApplication4] path:C:\Users\kmgrepos\Desktop\charan\project\tags\meta\characters\upper\Monotype Corsiva_A_3.42857142857143.plt
+2017-09-11 17:42:43,530 [9] INFO  -      [WindowsApplication4] ratio in normalize:3.42857142857143
+2017-09-11 17:42:43,530 [9] INFO  -      [WindowsApplication4] list length:26
+2017-09-11 17:42:43,530 [9] INFO  -      [WindowsApplication4] list length:26
+2017-09-11 17:42:43,532 [9] INFO  -      [WindowsApplication4] list length:26
+2017-09-11 17:42:43,532 [9] INFO  -      [WindowsApplication4] data:134
+2017-09-11 17:42:43,532 [9] INFO  -      [WindowsApplication4] data:126
+2017-09-11 17:42:43,532 [9] INFO  -      [WindowsApplication4] data:113
+2017-09-11 17:42:43,532 [9] INFO  -      [WindowsApplication4] data:117
+2017-09-11 17:42:43,532 [9] INFO  -      [WindowsApplication4] data:125
+2017-09-11 17:42:43,532 [9] INFO  -      [WindowsApplication4] data:129
+2017-09-11 17:42:43,532 [9] INFO  -      [WindowsApplication4] data:121
+2017-09-11 17:42:43,532 [9] INFO  -      [WindowsApplication4] data:106
+2017-09-11 17:42:43,532 [9] INFO  -      [WindowsApplication4] data:88
+2017-09-11 17:42:43,532 [9] INFO  -      [WindowsApplication4] data:71
+2017-09-11 17:42:43,532 [9] INFO  -      [WindowsApplication4] data:61
+2017-09-11 17:42:43,532 [9] INFO  -      [WindowsApplication4] data:57
+2017-09-11 17:42:43,532 [9] INFO  -      [WindowsApplication4] data:59
+2017-09-11 17:42:43,532 [9] INFO  -      [WindowsApplication4] data:64
+2017-09-11 17:42:43,532 [9] INFO  -      [WindowsApplication4] data:121
+2017-09-11 17:42:43,532 [9] INFO  -      [WindowsApplication4] data:93
+2017-09-11 17:42:43,532 [9] INFO  -      [WindowsApplication4] data:67
+2017-09-11 17:42:43,532 [9] INFO  -      [WindowsApplication4] data:46
+2017-09-11 17:42:43,532 [9] INFO  -      [WindowsApplication4] data:30
+2017-09-11 17:42:43,532 [9] INFO  -      [WindowsApplication4] data:22
+2017-09-11 17:42:43,532 [9] INFO  -      [WindowsApplication4] data:16
+2017-09-11 17:42:43,532 [9] INFO  -      [WindowsApplication4] data:8
+2017-09-11 17:42:43,532 [9] INFO  -      [WindowsApplication4] data:4
+2017-09-11 17:42:43,532 [9] INFO  -      [WindowsApplication4] data:0
+2017-09-11 17:42:43,532 [9] INFO  -      [WindowsApplication4] data:115
+2017-09-11 17:42:43,532 [9] INFO  -      [WindowsApplication4] data:61
+2017-09-11 17:42:43,532 [9] INFO  -      [WindowsApplication4] list length:26
+2017-09-11 17:42:43,532 [9] INFO  -      [WindowsApplication4] max:534,min:576
+2017-09-11 17:42:43,533 [9] INFO  -      [WindowsApplication4] minc:0
+2017-09-11 17:42:43,533 [9] INFO  -      [WindowsApplication4] IN FLAG GPLT:134
+2017-09-11 17:42:43,533 [9] INFO  -      [WindowsApplication4] i length:7
+2017-09-11 17:42:43,533 [9] INFO  -      [WindowsApplication4] chars:E
+2017-09-11 17:42:43,533 [9] INFO  -      [WindowsApplication4] tag no:5
+2017-09-11 17:42:43,533 [9] INFO  -      [WindowsApplication4] s:6tag:5
+2017-09-11 17:42:43,533 [9] INFO  -      [WindowsApplication4] s:25tag:5
+2017-09-11 17:42:43,533 [9] INFO  -      [WindowsApplication4] s:20tag:5
+2017-09-11 17:42:43,533 [9] INFO  -      [WindowsApplication4] s:1tag:5
+2017-09-11 17:42:43,533 [9] INFO  -      [WindowsApplication4] s:5tag:5
+2017-09-11 17:42:43,533 [9] INFO  -      [WindowsApplication4] in tag match
+2017-09-11 17:42:43,533 [9] INFO  -      [WindowsApplication4] Area of the tag:0.7104654
+2017-09-11 17:42:43,533 [9] INFO  -      [WindowsApplication4] Area of the tag:0.7
+2017-09-11 17:42:43,533 [9] INFO  -      [WindowsApplication4] lnum:1
+2017-09-11 17:42:43,533 [9] INFO  -      [WindowsApplication4] font name:Monotype Corsiva
+2017-09-11 17:42:43,533 [9] INFO  -      [WindowsApplication4] size:14
+2017-09-11 17:42:43,533 [9] INFO  -      [WindowsApplication4] path:C:\Users\kmgrepos\Desktop\charan\project\tags\meta\characters\upper\Monotype Corsiva_E_3.42857142857143.plt
+2017-09-11 17:42:43,533 [9] INFO  -      [WindowsApplication4] ratio in normalize:3.42857142857143
+2017-09-11 17:42:43,534 [9] INFO  -      [WindowsApplication4] list length:27
+2017-09-11 17:42:43,534 [9] INFO  -      [WindowsApplication4] list length:27
+2017-09-11 17:42:43,535 [9] INFO  -      [WindowsApplication4] data:114
+2017-09-11 17:42:43,535 [9] INFO  -      [WindowsApplication4] data:118
+2017-09-11 17:42:43,535 [9] INFO  -      [WindowsApplication4] data:93
+2017-09-11 17:42:43,535 [9] INFO  -      [WindowsApplication4] data:60
+2017-09-11 17:42:43,535 [9] INFO  -      [WindowsApplication4] data:46
+2017-09-11 17:42:43,535 [9] INFO  -      [WindowsApplication4] data:34
+2017-09-11 17:42:43,535 [9] INFO  -      [WindowsApplication4] data:24
+2017-09-11 17:42:43,535 [9] INFO  -      [WindowsApplication4] data:16
+2017-09-11 17:42:43,535 [9] INFO  -      [WindowsApplication4] data:4
+2017-09-11 17:42:43,535 [9] INFO  -      [WindowsApplication4] data:0
+2017-09-11 17:42:43,535 [9] INFO  -      [WindowsApplication4] data:3
+2017-09-11 17:42:43,535 [9] INFO  -      [WindowsApplication4] data:9
+2017-09-11 17:42:43,535 [9] INFO  -      [WindowsApplication4] data:53
+2017-09-11 17:42:43,535 [9] INFO  -      [WindowsApplication4] data:38
+2017-09-11 17:42:43,535 [9] INFO  -      [WindowsApplication4] data:26
+2017-09-11 17:42:43,535 [9] INFO  -      [WindowsApplication4] data:22
+2017-09-11 17:42:43,535 [9] INFO  -      [WindowsApplication4] data:9
+2017-09-11 17:42:43,535 [9] INFO  -      [WindowsApplication4] data:7
+2017-09-11 17:42:43,535 [9] INFO  -      [WindowsApplication4] data:41
+2017-09-11 17:42:43,535 [9] INFO  -      [WindowsApplication4] data:73
+2017-09-11 17:42:43,535 [9] INFO  -      [WindowsApplication4] data:88
+2017-09-11 17:42:43,535 [9] INFO  -      [WindowsApplication4] data:99
+2017-09-11 17:42:43,535 [9] INFO  -      [WindowsApplication4] data:107
+2017-09-11 17:42:43,535 [9] INFO  -      [WindowsApplication4] data:113
+2017-09-11 17:42:43,535 [9] INFO  -      [WindowsApplication4] data:114
+2017-09-11 17:42:43,535 [9] INFO  -      [WindowsApplication4] data:38
+2017-09-11 17:42:43,535 [9] INFO  -      [WindowsApplication4] data:107
+2017-09-11 17:42:43,535 [9] INFO  -      [WindowsApplication4] list length:27
+2017-09-11 17:42:43,535 [9] INFO  -      [WindowsApplication4] max:689,min:731
+2017-09-11 17:42:43,535 [9] INFO  -      [WindowsApplication4] minc:0
+2017-09-11 17:42:43,535 [9] INFO  -      [WindowsApplication4] IN FLAG GPLT:114
+2017-09-11 17:42:43,536 [9] INFO  -      [WindowsApplication4] i length:7
+2017-09-11 17:42:43,536 [9] INFO  -      [WindowsApplication4] chars:L
+2017-09-11 17:42:43,536 [9] INFO  -      [WindowsApplication4] tag no:5
+2017-09-11 17:42:43,537 [9] INFO  -      [WindowsApplication4] s:6tag:5
+2017-09-11 17:42:43,537 [9] INFO  -      [WindowsApplication4] s:25tag:5
+2017-09-11 17:42:43,537 [9] INFO  -      [WindowsApplication4] s:20tag:5
+2017-09-11 17:42:43,537 [9] INFO  -      [WindowsApplication4] s:1tag:5
+2017-09-11 17:42:43,537 [9] INFO  -      [WindowsApplication4] s:5tag:5
+2017-09-11 17:42:43,537 [9] INFO  -      [WindowsApplication4] in tag match
+2017-09-11 17:42:43,537 [9] INFO  -      [WindowsApplication4] Area of the tag:0.7104654
+2017-09-11 17:42:43,537 [9] INFO  -      [WindowsApplication4] Area of the tag:0.7
+2017-09-11 17:42:43,537 [9] INFO  -      [WindowsApplication4] lnum:1
+2017-09-11 17:42:43,537 [9] INFO  -      [WindowsApplication4] font name:Monotype Corsiva
+2017-09-11 17:42:43,537 [9] INFO  -      [WindowsApplication4] size:14
+2017-09-11 17:42:43,537 [9] INFO  -      [WindowsApplication4] path:C:\Users\kmgrepos\Desktop\charan\project\tags\meta\characters\upper\Monotype Corsiva_L_3.42857142857143.plt
+2017-09-11 17:42:43,537 [9] INFO  -      [WindowsApplication4] ratio in normalize:3.42857142857143
+2017-09-11 17:42:43,537 [9] INFO  -      [WindowsApplication4] list length:29
+2017-09-11 17:42:43,537 [9] INFO  -      [WindowsApplication4] list length:29
+2017-09-11 17:42:43,538 [9] INFO  -      [WindowsApplication4] data:96
+2017-09-11 17:42:43,539 [9] INFO  -      [WindowsApplication4] data:95
+2017-09-11 17:42:43,539 [9] INFO  -      [WindowsApplication4] data:94
+2017-09-11 17:42:43,539 [9] INFO  -      [WindowsApplication4] data:96
+2017-09-11 17:42:43,539 [9] INFO  -      [WindowsApplication4] data:100
+2017-09-11 17:42:43,539 [9] INFO  -      [WindowsApplication4] data:104
+2017-09-11 17:42:43,539 [9] INFO  -      [WindowsApplication4] data:106
+2017-09-11 17:42:43,539 [9] INFO  -      [WindowsApplication4] data:105
+2017-09-11 17:42:43,539 [9] INFO  -      [WindowsApplication4] data:99
+2017-09-11 17:42:43,539 [9] INFO  -      [WindowsApplication4] data:91
+2017-09-11 17:42:43,539 [9] INFO  -      [WindowsApplication4] data:81
+2017-09-11 17:42:43,539 [9] INFO  -      [WindowsApplication4] data:65
+2017-09-11 17:42:43,539 [9] INFO  -      [WindowsApplication4] data:25
+2017-09-11 17:42:43,539 [9] INFO  -      [WindowsApplication4] data:0
+2017-09-11 17:42:43,539 [9] INFO  -      [WindowsApplication4] data:0
+2017-09-11 17:42:43,539 [9] INFO  -      [WindowsApplication4] data:1
+2017-09-11 17:42:43,539 [9] INFO  -      [WindowsApplication4] data:14
+2017-09-11 17:42:43,539 [9] INFO  -      [WindowsApplication4] data:20
+2017-09-11 17:42:43,539 [9] INFO  -      [WindowsApplication4] data:28
+2017-09-11 17:42:43,539 [9] INFO  -      [WindowsApplication4] data:39
+2017-09-11 17:42:43,539 [9] INFO  -      [WindowsApplication4] data:48
+2017-09-11 17:42:43,539 [9] INFO  -      [WindowsApplication4] data:59
+2017-09-11 17:42:43,539 [9] INFO  -      [WindowsApplication4] data:70
+2017-09-11 17:42:43,539 [9] INFO  -      [WindowsApplication4] data:82
+2017-09-11 17:42:43,539 [9] INFO  -      [WindowsApplication4] data:95
+2017-09-11 17:42:43,539 [9] INFO  -      [WindowsApplication4] data:100
+2017-09-11 17:42:43,539 [9] INFO  -      [WindowsApplication4] data:99
+2017-09-11 17:42:43,539 [9] INFO  -      [WindowsApplication4] data:95
+2017-09-11 17:42:43,539 [9] INFO  -      [WindowsApplication4] data:88
+2017-09-11 17:42:43,539 [9] INFO  -      [WindowsApplication4] list length:29
+2017-09-11 17:42:43,539 [9] INFO  -      [WindowsApplication4] max:828,min:870
+2017-09-11 17:42:43,539 [9] INFO  -      [WindowsApplication4] minc:0
+2017-09-11 17:42:43,539 [9] INFO  -      [WindowsApplication4] IN FLAG GPLT:96
+2017-09-11 17:42:43,541 [9] INFO  -      [WindowsApplication4] wx length:174
+2017-09-11 17:42:43,541 [9] INFO  -      [WindowsApplication4] list length:174
+2017-09-11 17:42:43,541 [9] INFO  -      [WindowsApplication4] tag no:5
+2017-09-11 17:42:43,541 [9] INFO  -      [WindowsApplication4] s:6tag:5
+2017-09-11 17:42:43,541 [9] INFO  -      [WindowsApplication4] s:25tag:5
+2017-09-11 17:42:43,541 [9] INFO  -      [WindowsApplication4] s:20tag:5
+2017-09-11 17:42:43,541 [9] INFO  -      [WindowsApplication4] s:1tag:5
+2017-09-11 17:42:43,541 [9] INFO  -      [WindowsApplication4] s:5tag:5
+2017-09-11 17:42:43,541 [9] INFO  -      [WindowsApplication4] in tag match
+2017-09-11 17:42:43,542 [9] INFO  -      [WindowsApplication4] params length:4
+2017-09-11 17:42:43,546 [9] INFO  -      [WindowsApplication4] diff:976,width:800
+2017-09-11 17:42:43,546 [9] INFO  -      [WindowsApplication4] ratio:1.22
+2017-09-11 17:42:43,547 [9] INFO  -      [WindowsApplication4] list length:174
+2017-09-11 17:42:43,552 [9] INFO  -      [WindowsApplication4] ratio in normalize:1
+2017-09-11 17:42:43,552 [9] INFO  -      [WindowsApplication4] list length:174
+2017-09-11 17:42:43,552 [9] INFO  -      [WindowsApplication4] list length:174
+2017-09-11 17:42:43,559 [9] INFO  -      [WindowsApplication4] list length:60
+2017-09-11 17:42:43,559 [9] INFO  -      [WindowsApplication4] list length:174
+2017-09-11 17:42:43,561 [9] INFO  -      [WindowsApplication4] tag no:5
+2017-09-11 17:42:43,561 [9] INFO  -      [WindowsApplication4] s:6tag:5
+2017-09-11 17:42:43,561 [9] INFO  -      [WindowsApplication4] s:25tag:5
+2017-09-11 17:42:43,561 [9] INFO  -      [WindowsApplication4] s:20tag:5
+2017-09-11 17:42:43,561 [9] INFO  -      [WindowsApplication4] s:1tag:5
+2017-09-11 17:42:43,561 [9] INFO  -      [WindowsApplication4] s:5tag:5
+2017-09-11 17:42:43,561 [9] INFO  -      [WindowsApplication4] in tag match
+2017-09-11 17:42:43,562 [9] INFO  -      [WindowsApplication4] Area of the tag:0.7104654
+2017-09-11 17:42:43,562 [9] INFO  -      [WindowsApplication4] Area of the tag:0.7
+2017-09-11 17:42:43,562 [9] INFO  -      [WindowsApplication4] lnum:2
+2017-09-11 17:42:43,562 [9] INFO  -      [WindowsApplication4] font name:Monotype Corsiva
+2017-09-11 17:42:43,562 [9] INFO  -      [WindowsApplication4] size:17
+2017-09-11 17:42:43,562 [9] INFO  -      [WindowsApplication4] path:C:\Users\kmgrepos\Desktop\charan\project\tags\meta\characters\upper\Monotype Corsiva_R_3.plt
+2017-09-11 17:42:43,562 [9] INFO  -      [WindowsApplication4] ratio in normalize:3
+2017-09-11 17:42:43,562 [9] INFO  -      [WindowsApplication4] list length:51
+2017-09-11 17:42:43,562 [9] INFO  -      [WindowsApplication4] list length:51
+2017-09-11 17:42:43,564 [9] INFO  -      [WindowsApplication4] tag no:5
+2017-09-11 17:42:43,564 [9] INFO  -      [WindowsApplication4] s:6tag:5
+2017-09-11 17:42:43,564 [9] INFO  -      [WindowsApplication4] s:25tag:5
+2017-09-11 17:42:43,564 [9] INFO  -      [WindowsApplication4] s:20tag:5
+2017-09-11 17:42:43,564 [9] INFO  -      [WindowsApplication4] s:1tag:5
+2017-09-11 17:42:43,564 [9] INFO  -      [WindowsApplication4] s:5tag:5
+2017-09-11 17:42:43,564 [9] INFO  -      [WindowsApplication4] in tag match
+2017-09-11 17:42:43,564 [9] INFO  -      [WindowsApplication4] Area of the tag:0.7104654
+2017-09-11 17:42:43,564 [9] INFO  -      [WindowsApplication4] Area of the tag:0.7
+2017-09-11 17:42:43,564 [9] INFO  -      [WindowsApplication4] lnum:2
+2017-09-11 17:42:43,565 [9] INFO  -      [WindowsApplication4] font name:Monotype Corsiva
+2017-09-11 17:42:43,565 [9] INFO  -      [WindowsApplication4] size:17
+2017-09-11 17:42:43,565 [9] INFO  -      [WindowsApplication4] path:C:\Users\kmgrepos\Desktop\charan\project\tags\meta\characters\upper\Monotype Corsiva_A_3.plt
+2017-09-11 17:42:43,565 [9] INFO  -      [WindowsApplication4] ratio in normalize:3
+2017-09-11 17:42:43,565 [9] INFO  -      [WindowsApplication4] list length:26
+2017-09-11 17:42:43,565 [9] INFO  -      [WindowsApplication4] list length:26
+2017-09-11 17:42:43,566 [9] INFO  -      [WindowsApplication4] tag no:5
+2017-09-11 17:42:43,566 [9] INFO  -      [WindowsApplication4] s:6tag:5
+2017-09-11 17:42:43,566 [9] INFO  -      [WindowsApplication4] s:25tag:5
+2017-09-11 17:42:43,566 [9] INFO  -      [WindowsApplication4] s:20tag:5
+2017-09-11 17:42:43,566 [9] INFO  -      [WindowsApplication4] s:1tag:5
+2017-09-11 17:42:43,566 [9] INFO  -      [WindowsApplication4] s:5tag:5
+2017-09-11 17:42:43,566 [9] INFO  -      [WindowsApplication4] in tag match
+2017-09-11 17:42:43,566 [9] INFO  -      [WindowsApplication4] Area of the tag:0.7104654
+2017-09-11 17:42:43,566 [9] INFO  -      [WindowsApplication4] Area of the tag:0.7
+2017-09-11 17:42:43,566 [9] INFO  -      [WindowsApplication4] lnum:2
+2017-09-11 17:42:43,567 [9] INFO  -      [WindowsApplication4] font name:Monotype Corsiva
+2017-09-11 17:42:43,567 [9] INFO  -      [WindowsApplication4] size:17
+2017-09-11 17:42:43,567 [9] INFO  -      [WindowsApplication4] path:C:\Users\kmgrepos\Desktop\charan\project\tags\meta\characters\upper\Monotype Corsiva_B_3.plt
+2017-09-11 17:42:43,567 [9] INFO  -      [WindowsApplication4] ratio in normalize:3
+2017-09-11 17:42:43,567 [9] INFO  -      [WindowsApplication4] list length:44
+2017-09-11 17:42:43,567 [9] INFO  -      [WindowsApplication4] list length:44
+2017-09-11 17:42:43,568 [9] INFO  -      [WindowsApplication4] tag no:5
+2017-09-11 17:42:43,568 [9] INFO  -      [WindowsApplication4] s:6tag:5
+2017-09-11 17:42:43,568 [9] INFO  -      [WindowsApplication4] s:25tag:5
+2017-09-11 17:42:43,568 [9] INFO  -      [WindowsApplication4] s:20tag:5
+2017-09-11 17:42:43,568 [9] INFO  -      [WindowsApplication4] s:1tag:5
+2017-09-11 17:42:43,568 [9] INFO  -      [WindowsApplication4] s:5tag:5
+2017-09-11 17:42:43,568 [9] INFO  -      [WindowsApplication4] in tag match
+2017-09-11 17:42:43,569 [9] INFO  -      [WindowsApplication4] Area of the tag:0.7104654
+2017-09-11 17:42:43,569 [9] INFO  -      [WindowsApplication4] Area of the tag:0.7
+2017-09-11 17:42:43,569 [9] INFO  -      [WindowsApplication4] lnum:2
+2017-09-11 17:42:43,569 [9] INFO  -      [WindowsApplication4] font name:Monotype Corsiva
+2017-09-11 17:42:43,569 [9] INFO  -      [WindowsApplication4] size:17
+2017-09-11 17:42:43,569 [9] INFO  -      [WindowsApplication4] path:C:\Users\kmgrepos\Desktop\charan\project\tags\meta\characters\upper\Monotype Corsiva_I_3.plt
+2017-09-11 17:42:43,569 [9] INFO  -      [WindowsApplication4] ratio in normalize:3
+2017-09-11 17:42:43,570 [9] INFO  -      [WindowsApplication4] list length:11
+2017-09-11 17:42:43,570 [9] INFO  -      [WindowsApplication4] list length:11
+2017-09-11 17:42:43,571 [9] INFO  -      [WindowsApplication4] tag no:5
+2017-09-11 17:42:43,571 [9] INFO  -      [WindowsApplication4] s:6tag:5
+2017-09-11 17:42:43,571 [9] INFO  -      [WindowsApplication4] s:25tag:5
+2017-09-11 17:42:43,571 [9] INFO  -      [WindowsApplication4] s:20tag:5
+2017-09-11 17:42:43,571 [9] INFO  -      [WindowsApplication4] s:1tag:5
+2017-09-11 17:42:43,571 [9] INFO  -      [WindowsApplication4] s:5tag:5
+2017-09-11 17:42:43,571 [9] INFO  -      [WindowsApplication4] in tag match
+2017-09-11 17:42:43,571 [9] INFO  -      [WindowsApplication4] Area of the tag:0.7104654
+2017-09-11 17:42:43,571 [9] INFO  -      [WindowsApplication4] Area of the tag:0.7
+2017-09-11 17:42:43,571 [9] INFO  -      [WindowsApplication4] lnum:2
+2017-09-11 17:42:43,571 [9] INFO  -      [WindowsApplication4] font name:Monotype Corsiva
+2017-09-11 17:42:43,571 [9] INFO  -      [WindowsApplication4] size:17
+2017-09-11 17:42:43,571 [9] INFO  -      [WindowsApplication4] path:C:\Users\kmgrepos\Desktop\charan\project\tags\meta\characters\upper\Monotype Corsiva_D_3.plt
+2017-09-11 17:42:43,572 [9] INFO  -      [WindowsApplication4] ratio in normalize:3
+2017-09-11 17:42:43,572 [9] INFO  -      [WindowsApplication4] list length:34
+2017-09-11 17:42:43,572 [9] INFO  -      [WindowsApplication4] list length:34
+2017-09-11 17:42:43,573 [9] INFO  -      [WindowsApplication4] list length:174
+2017-09-11 17:42:43,573 [9] INFO  -      [WindowsApplication4] max:166min:-33
+2017-09-11 17:42:43,573 [9] INFO  -      [WindowsApplication4] ldiff in checkmultiplelines:295 ldiff count:0
+2017-09-11 17:42:43,573 [9] INFO  -      [WindowsApplication4] ldiff in checkmultiplelines:295
+2017-09-11 17:42:43,573 [9] INFO  -      [WindowsApplication4] i length:5
+2017-09-11 17:42:43,573 [9] INFO  -      [WindowsApplication4] chars:R
+2017-09-11 17:42:43,573 [9] INFO  -      [WindowsApplication4] tag no:5
+2017-09-11 17:42:43,573 [9] INFO  -      [WindowsApplication4] s:6tag:5
+2017-09-11 17:42:43,573 [9] INFO  -      [WindowsApplication4] s:25tag:5
+2017-09-11 17:42:43,573 [9] INFO  -      [WindowsApplication4] s:20tag:5
+2017-09-11 17:42:43,573 [9] INFO  -      [WindowsApplication4] s:1tag:5
+2017-09-11 17:42:43,573 [9] INFO  -      [WindowsApplication4] s:5tag:5
+2017-09-11 17:42:43,573 [9] INFO  -      [WindowsApplication4] in tag match
+2017-09-11 17:42:43,573 [9] INFO  -      [WindowsApplication4] Area of the tag:0.7104654
+2017-09-11 17:42:43,573 [9] INFO  -      [WindowsApplication4] Area of the tag:0.7
+2017-09-11 17:42:43,574 [9] INFO  -      [WindowsApplication4] lnum:2
+2017-09-11 17:42:43,574 [9] INFO  -      [WindowsApplication4] font name:Monotype Corsiva
+2017-09-11 17:42:43,574 [9] INFO  -      [WindowsApplication4] size:17
+2017-09-11 17:42:43,574 [9] INFO  -      [WindowsApplication4] path:C:\Users\kmgrepos\Desktop\charan\project\tags\meta\characters\upper\Monotype Corsiva_R_3.plt
+2017-09-11 17:42:43,574 [9] INFO  -      [WindowsApplication4] ratio in normalize:3
+2017-09-11 17:42:43,574 [9] INFO  -      [WindowsApplication4] list length:51
+2017-09-11 17:42:43,574 [9] INFO  -      [WindowsApplication4] list length:51
+2017-09-11 17:42:43,576 [9] INFO  -      [WindowsApplication4] list length:51
+2017-09-11 17:42:43,576 [9] INFO  -      [WindowsApplication4] i length:5
+2017-09-11 17:42:43,576 [9] INFO  -      [WindowsApplication4] chars:A
+2017-09-11 17:42:43,576 [9] INFO  -      [WindowsApplication4] tag no:5
+2017-09-11 17:42:43,576 [9] INFO  -      [WindowsApplication4] s:6tag:5
+2017-09-11 17:42:43,576 [9] INFO  -      [WindowsApplication4] s:25tag:5
+2017-09-11 17:42:43,576 [9] INFO  -      [WindowsApplication4] s:20tag:5
+2017-09-11 17:42:43,576 [9] INFO  -      [WindowsApplication4] s:1tag:5
+2017-09-11 17:42:43,576 [9] INFO  -      [WindowsApplication4] s:5tag:5
+2017-09-11 17:42:43,576 [9] INFO  -      [WindowsApplication4] in tag match
+2017-09-11 17:42:43,576 [9] INFO  -      [WindowsApplication4] Area of the tag:0.7104654
+2017-09-11 17:42:43,576 [9] INFO  -      [WindowsApplication4] Area of the tag:0.7
+2017-09-11 17:42:43,576 [9] INFO  -      [WindowsApplication4] lnum:2
+2017-09-11 17:42:43,577 [9] INFO  -      [WindowsApplication4] font name:Monotype Corsiva
+2017-09-11 17:42:43,577 [9] INFO  -      [WindowsApplication4] size:17
+2017-09-11 17:42:43,577 [9] INFO  -      [WindowsApplication4] path:C:\Users\kmgrepos\Desktop\charan\project\tags\meta\characters\upper\Monotype Corsiva_A_3.plt
+2017-09-11 17:42:43,577 [9] INFO  -      [WindowsApplication4] ratio in normalize:3
+2017-09-11 17:42:43,577 [9] INFO  -      [WindowsApplication4] list length:26
+2017-09-11 17:42:43,577 [9] INFO  -      [WindowsApplication4] list length:26
+2017-09-11 17:42:43,578 [9] INFO  -      [WindowsApplication4] list length:26
+2017-09-11 17:42:43,578 [9] INFO  -      [WindowsApplication4] data:153
+2017-09-11 17:42:43,578 [9] INFO  -      [WindowsApplication4] data:143
+2017-09-11 17:42:43,578 [9] INFO  -      [WindowsApplication4] data:128
+2017-09-11 17:42:43,578 [9] INFO  -      [WindowsApplication4] data:133
+2017-09-11 17:42:43,578 [9] INFO  -      [WindowsApplication4] data:142
+2017-09-11 17:42:43,578 [9] INFO  -      [WindowsApplication4] data:147
+2017-09-11 17:42:43,578 [9] INFO  -      [WindowsApplication4] data:137
+2017-09-11 17:42:43,578 [9] INFO  -      [WindowsApplication4] data:121
+2017-09-11 17:42:43,578 [9] INFO  -      [WindowsApplication4] data:100
+2017-09-11 17:42:43,578 [9] INFO  -      [WindowsApplication4] data:80
+2017-09-11 17:42:43,578 [9] INFO  -      [WindowsApplication4] data:68
+2017-09-11 17:42:43,578 [9] INFO  -      [WindowsApplication4] data:64
+2017-09-11 17:42:43,578 [9] INFO  -      [WindowsApplication4] data:67
+2017-09-11 17:42:43,579 [9] INFO  -      [WindowsApplication4] data:73
+2017-09-11 17:42:43,579 [9] INFO  -      [WindowsApplication4] data:137
+2017-09-11 17:42:43,579 [9] INFO  -      [WindowsApplication4] data:105
+2017-09-11 17:42:43,579 [9] INFO  -      [WindowsApplication4] data:76
+2017-09-11 17:42:43,579 [9] INFO  -      [WindowsApplication4] data:51
+2017-09-11 17:42:43,579 [9] INFO  -      [WindowsApplication4] data:33
+2017-09-11 17:42:43,579 [9] INFO  -      [WindowsApplication4] data:25
+2017-09-11 17:42:43,579 [9] INFO  -      [WindowsApplication4] data:17
+2017-09-11 17:42:43,579 [9] INFO  -      [WindowsApplication4] data:8
+2017-09-11 17:42:43,579 [9] INFO  -      [WindowsApplication4] data:4
+2017-09-11 17:42:43,579 [9] INFO  -      [WindowsApplication4] data:0
+2017-09-11 17:42:43,579 [9] INFO  -      [WindowsApplication4] data:130
+2017-09-11 17:42:43,579 [9] INFO  -      [WindowsApplication4] data:69
+2017-09-11 17:42:43,579 [9] INFO  -      [WindowsApplication4] list length:26
+2017-09-11 17:42:43,579 [9] INFO  -      [WindowsApplication4] max:139,min:187
+2017-09-11 17:42:43,579 [9] INFO  -      [WindowsApplication4] minc:0
+2017-09-11 17:42:43,579 [9] INFO  -      [WindowsApplication4] IN FLAG GPLT:153
+2017-09-11 17:42:43,580 [9] INFO  -      [WindowsApplication4] i length:5
+2017-09-11 17:42:43,580 [9] INFO  -      [WindowsApplication4] chars:B
+2017-09-11 17:42:43,580 [9] INFO  -      [WindowsApplication4] tag no:5
+2017-09-11 17:42:43,580 [9] INFO  -      [WindowsApplication4] s:6tag:5
+2017-09-11 17:42:43,580 [9] INFO  -      [WindowsApplication4] s:25tag:5
+2017-09-11 17:42:43,580 [9] INFO  -      [WindowsApplication4] s:20tag:5
+2017-09-11 17:42:43,580 [9] INFO  -      [WindowsApplication4] s:1tag:5
+2017-09-11 17:42:43,580 [9] INFO  -      [WindowsApplication4] s:5tag:5
+2017-09-11 17:42:43,580 [9] INFO  -      [WindowsApplication4] in tag match
+2017-09-11 17:42:43,580 [9] INFO  -      [WindowsApplication4] Area of the tag:0.7104654
+2017-09-11 17:42:43,580 [9] INFO  -      [WindowsApplication4] Area of the tag:0.7
+2017-09-11 17:42:43,580 [9] INFO  -      [WindowsApplication4] lnum:2
+2017-09-11 17:42:43,580 [9] INFO  -      [WindowsApplication4] font name:Monotype Corsiva
+2017-09-11 17:42:43,580 [9] INFO  -      [WindowsApplication4] size:17
+2017-09-11 17:42:43,580 [9] INFO  -      [WindowsApplication4] path:C:\Users\kmgrepos\Desktop\charan\project\tags\meta\characters\upper\Monotype Corsiva_B_3.plt
+2017-09-11 17:42:43,580 [9] INFO  -      [WindowsApplication4] ratio in normalize:3
+2017-09-11 17:42:43,580 [9] INFO  -      [WindowsApplication4] list length:44
+2017-09-11 17:42:43,580 [9] INFO  -      [WindowsApplication4] list length:44
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:55
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:58
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:61
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:62
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:61
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:45
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:36
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:29
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:19
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:18
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:38
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:52
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:70
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:85
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:99
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:111
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:119
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:124
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:126
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:123
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:115
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:99
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:57
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:99
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:112
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:120
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:125
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:127
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:125
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:117
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:104
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:87
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:63
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:42
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:24
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:11
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:2
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:0
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:1
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:6
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:12
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:19
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:57
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] data:55
+2017-09-11 17:42:43,582 [9] INFO  -      [WindowsApplication4] list length:44
+2017-09-11 17:42:43,583 [9] INFO  -      [WindowsApplication4] max:316,min:364
+2017-09-11 17:42:43,583 [9] INFO  -      [WindowsApplication4] minc:0
+2017-09-11 17:42:43,583 [9] INFO  -      [WindowsApplication4] IN FLAG GPLT:55
+2017-09-11 17:42:43,583 [9] INFO  -      [WindowsApplication4] i length:5
+2017-09-11 17:42:43,583 [9] INFO  -      [WindowsApplication4] chars:I
+2017-09-11 17:42:43,583 [9] INFO  -      [WindowsApplication4] tag no:5
+2017-09-11 17:42:43,584 [9] INFO  -      [WindowsApplication4] s:6tag:5
+2017-09-11 17:42:43,584 [9] INFO  -      [WindowsApplication4] s:25tag:5
+2017-09-11 17:42:43,584 [9] INFO  -      [WindowsApplication4] s:20tag:5
+2017-09-11 17:42:43,584 [9] INFO  -      [WindowsApplication4] s:1tag:5
+2017-09-11 17:42:43,584 [9] INFO  -      [WindowsApplication4] s:5tag:5
+2017-09-11 17:42:43,584 [9] INFO  -      [WindowsApplication4] in tag match
+2017-09-11 17:42:43,584 [9] INFO  -      [WindowsApplication4] Area of the tag:0.7104654
+2017-09-11 17:42:43,584 [9] INFO  -      [WindowsApplication4] Area of the tag:0.7
+2017-09-11 17:42:43,584 [9] INFO  -      [WindowsApplication4] lnum:2
+2017-09-11 17:42:43,584 [9] INFO  -      [WindowsApplication4] font name:Monotype Corsiva
+2017-09-11 17:42:43,584 [9] INFO  -      [WindowsApplication4] size:17
+2017-09-11 17:42:43,584 [9] INFO  -      [WindowsApplication4] path:C:\Users\kmgrepos\Desktop\charan\project\tags\meta\characters\upper\Monotype Corsiva_I_3.plt
+2017-09-11 17:42:43,584 [9] INFO  -      [WindowsApplication4] ratio in normalize:3
+2017-09-11 17:42:43,584 [9] INFO  -      [WindowsApplication4] list length:11
+2017-09-11 17:42:43,584 [9] INFO  -      [WindowsApplication4] list length:11
+2017-09-11 17:42:43,586 [9] INFO  -      [WindowsApplication4] data:57
+2017-09-11 17:42:43,586 [9] INFO  -      [WindowsApplication4] data:43
+2017-09-11 17:42:43,586 [9] INFO  -      [WindowsApplication4] data:25
+2017-09-11 17:42:43,586 [9] INFO  -      [WindowsApplication4] data:0
+2017-09-11 17:42:43,586 [9] INFO  -      [WindowsApplication4] data:32
+2017-09-11 17:42:43,586 [9] INFO  -      [WindowsApplication4] data:35
+2017-09-11 17:42:43,586 [9] INFO  -      [WindowsApplication4] data:48
+2017-09-11 17:42:43,586 [9] INFO  -      [WindowsApplication4] data:62
+2017-09-11 17:42:43,586 [9] INFO  -      [WindowsApplication4] data:35
+2017-09-11 17:42:43,586 [9] INFO  -      [WindowsApplication4] data:67
+2017-09-11 17:42:43,586 [9] INFO  -      [WindowsApplication4] data:91
+2017-09-11 17:42:43,586 [9] INFO  -      [WindowsApplication4] list length:11
+2017-09-11 17:42:43,586 [9] INFO  -      [WindowsApplication4] max:467,min:515
+2017-09-11 17:42:43,586 [9] INFO  -      [WindowsApplication4] in odiff:32
+2017-09-11 17:42:43,586 [9] INFO  -      [WindowsApplication4] minc:0
+2017-09-11 17:42:43,586 [9] INFO  -      [WindowsApplication4] IN FLAG GPLT:57
+2017-09-11 17:42:43,586 [9] INFO  -      [WindowsApplication4] i length:5
+2017-09-11 17:42:43,586 [9] INFO  -      [WindowsApplication4] chars:D
+2017-09-11 17:42:43,586 [9] INFO  -      [WindowsApplication4] tag no:5
+2017-09-11 17:42:43,586 [9] INFO  -      [WindowsApplication4] s:6tag:5
+2017-09-11 17:42:43,586 [9] INFO  -      [WindowsApplication4] s:25tag:5
+2017-09-11 17:42:43,586 [9] INFO  -      [WindowsApplication4] s:20tag:5
+2017-09-11 17:42:43,586 [9] INFO  -      [WindowsApplication4] s:1tag:5
+2017-09-11 17:42:43,586 [9] INFO  -      [WindowsApplication4] s:5tag:5
+2017-09-11 17:42:43,586 [9] INFO  -      [WindowsApplication4] in tag match
+2017-09-11 17:42:43,586 [9] INFO  -      [WindowsApplication4] Area of the tag:0.7104654
+2017-09-11 17:42:43,586 [9] INFO  -      [WindowsApplication4] Area of the tag:0.7
+2017-09-11 17:42:43,586 [9] INFO  -      [WindowsApplication4] lnum:2
+2017-09-11 17:42:43,587 [9] INFO  -      [WindowsApplication4] font name:Monotype Corsiva
+2017-09-11 17:42:43,587 [9] INFO  -      [WindowsApplication4] size:17
+2017-09-11 17:42:43,587 [9] INFO  -      [WindowsApplication4] path:C:\Users\kmgrepos\Desktop\charan\project\tags\meta\characters\upper\Monotype Corsiva_D_3.plt
+2017-09-11 17:42:43,587 [9] INFO  -      [WindowsApplication4] ratio in normalize:3
+2017-09-11 17:42:43,587 [9] INFO  -      [WindowsApplication4] list length:34
+2017-09-11 17:42:43,587 [9] INFO  -      [WindowsApplication4] list length:34
+2017-09-11 17:42:43,588 [9] INFO  -      [WindowsApplication4] data:56
+2017-09-11 17:42:43,588 [9] INFO  -      [WindowsApplication4] data:59
+2017-09-11 17:42:43,588 [9] INFO  -      [WindowsApplication4] data:62
+2017-09-11 17:42:43,588 [9] INFO  -      [WindowsApplication4] data:63
+2017-09-11 17:42:43,588 [9] INFO  -      [WindowsApplication4] data:63
+2017-09-11 17:42:43,588 [9] INFO  -      [WindowsApplication4] data:54
+2017-09-11 17:42:43,588 [9] INFO  -      [WindowsApplication4] data:46
+2017-09-11 17:42:43,588 [9] INFO  -      [WindowsApplication4] data:38
+2017-09-11 17:42:43,588 [9] INFO  -      [WindowsApplication4] data:33
+2017-09-11 17:42:43,588 [9] INFO  -      [WindowsApplication4] data:21
+2017-09-11 17:42:43,588 [9] INFO  -      [WindowsApplication4] data:18
+2017-09-11 17:42:43,588 [9] INFO  -      [WindowsApplication4] data:33
+2017-09-11 17:42:43,588 [9] INFO  -      [WindowsApplication4] data:56
+2017-09-11 17:42:43,588 [9] INFO  -      [WindowsApplication4] data:76
+2017-09-11 17:42:43,588 [9] INFO  -      [WindowsApplication4] data:93
+2017-09-11 17:42:43,588 [9] INFO  -      [WindowsApplication4] data:111
+2017-09-11 17:42:43,588 [9] INFO  -      [WindowsApplication4] data:128
+2017-09-11 17:42:43,588 [9] INFO  -      [WindowsApplication4] data:142
+2017-09-11 17:42:43,588 [9] INFO  -      [WindowsApplication4] data:151
+2017-09-11 17:42:43,588 [9] INFO  -      [WindowsApplication4] data:154
+2017-09-11 17:42:43,588 [9] INFO  -      [WindowsApplication4] data:150
+2017-09-11 17:42:43,588 [9] INFO  -      [WindowsApplication4] data:136
+2017-09-11 17:42:43,588 [9] INFO  -      [WindowsApplication4] data:115
+2017-09-11 17:42:43,588 [9] INFO  -      [WindowsApplication4] data:88
+2017-09-11 17:42:43,589 [9] INFO  -      [WindowsApplication4] data:64
+2017-09-11 17:42:43,589 [9] INFO  -      [WindowsApplication4] data:43
+2017-09-11 17:42:43,589 [9] INFO  -      [WindowsApplication4] data:25
+2017-09-11 17:42:43,589 [9] INFO  -      [WindowsApplication4] data:11
+2017-09-11 17:42:43,589 [9] INFO  -      [WindowsApplication4] data:3
+2017-09-11 17:42:43,589 [9] INFO  -      [WindowsApplication4] data:0
+2017-09-11 17:42:43,589 [9] INFO  -      [WindowsApplication4] data:2
+2017-09-11 17:42:43,589 [9] INFO  -      [WindowsApplication4] data:8
+2017-09-11 17:42:43,589 [9] INFO  -      [WindowsApplication4] data:13
+2017-09-11 17:42:43,589 [9] INFO  -      [WindowsApplication4] data:19
+2017-09-11 17:42:43,589 [9] INFO  -      [WindowsApplication4] list length:34
+2017-09-11 17:42:43,589 [9] INFO  -      [WindowsApplication4] max:534,min:582
+2017-09-11 17:42:43,589 [9] INFO  -      [WindowsApplication4] in odiff:32
+2017-09-11 17:42:43,589 [9] INFO  -      [WindowsApplication4] minc:0
+2017-09-11 17:42:43,589 [9] INFO  -      [WindowsApplication4] IN FLAG GPLT:56
+2017-09-11 17:42:43,590 [9] INFO  -      [WindowsApplication4] wx length:166
+2017-09-11 17:42:43,590 [9] INFO  -      [WindowsApplication4] list length:166
+2017-09-11 17:42:43,590 [9] INFO  -      [WindowsApplication4] tag no:5
+2017-09-11 17:42:43,590 [9] INFO  -      [WindowsApplication4] s:6tag:5
+2017-09-11 17:42:43,590 [9] INFO  -      [WindowsApplication4] s:25tag:5
+2017-09-11 17:42:43,590 [9] INFO  -      [WindowsApplication4] s:20tag:5
+2017-09-11 17:42:43,590 [9] INFO  -      [WindowsApplication4] s:1tag:5
+2017-09-11 17:42:43,590 [9] INFO  -      [WindowsApplication4] s:5tag:5
+2017-09-11 17:42:43,590 [9] INFO  -      [WindowsApplication4] in tag match
+2017-09-11 17:42:43,590 [9] INFO  -      [WindowsApplication4] params length:4
+2017-09-11 17:42:43,590 [9] INFO  -      [WindowsApplication4] diff:768,width:800
+2017-09-11 17:42:43,590 [9] INFO  -      [WindowsApplication4] list length:85
+2017-09-11 17:42:43,590 [9] INFO  -      [WindowsApplication4] list length:166
+2017-09-11 17:42:43,592 [9] INFO  -      [WindowsApplication4] In center lines function
+2017-09-11 17:42:43,592 [9] INFO  -      [WindowsApplication4] list length:174
+2017-09-11 17:42:43,592 [9] INFO  -      [WindowsApplication4] list length:166
+2017-09-11 17:42:43,596 [9] INFO  -      [WindowsApplication4] tag no:5
+2017-09-11 17:42:43,596 [9] INFO  -      [WindowsApplication4] s:6tag:5
+2017-09-11 17:42:43,596 [9] INFO  -      [WindowsApplication4] s:25tag:5
+2017-09-11 17:42:43,596 [9] INFO  -      [WindowsApplication4] s:20tag:5
+2017-09-11 17:42:43,596 [9] INFO  -      [WindowsApplication4] s:1tag:5
+2017-09-11 17:42:43,596 [9] INFO  -      [WindowsApplication4] s:5tag:5
+2017-09-11 17:42:43,596 [9] INFO  -      [WindowsApplication4] in tag match
+2017-09-11 17:42:43,601 [9] INFO  -      [WindowsApplication4] list length:340
+2017-09-11 17:42:43,605 [9] INFO  -      [WindowsApplication4] tag no:5
+2017-09-11 17:42:43,606 [9] INFO  -      [WindowsApplication4] s:6tag:5
+2017-09-11 17:42:43,606 [9] INFO  -      [WindowsApplication4] s:25tag:5
+2017-09-11 17:42:43,606 [9] INFO  -      [WindowsApplication4] s:20tag:5
+2017-09-11 17:42:43,606 [9] INFO  -      [WindowsApplication4] s:1tag:5
+2017-09-11 17:42:43,606 [9] INFO  -      [WindowsApplication4] s:5tag:5
+2017-09-11 17:42:43,606 [9] INFO  -      [WindowsApplication4] in tag match
+2017-09-11 17:42:43,606 [9] INFO  -      [WindowsApplication4] params length:4
+2017-09-11 17:42:43,606 [9] INFO  -      [WindowsApplication4] file:C:\Users\kmgrepos\Desktop\charan\project\new.plt
+2017-09-11 17:42:43,606 [9] INFO  -      [WindowsApplication4] list length:340
+2017-09-11 17:42:43,606 [9] INFO  -      [WindowsApplication4] list length:340
+2017-09-11 17:42:43,606 [9] INFO  -      [WindowsApplication4] xmin:24,xmax:784,ymin:-337,ymax:168
+2017-09-11 17:42:43,606 [9] INFO  -      [WindowsApplication4] xparams:2200yparams:910
+2017-09-11 17:42:43,606 [9] INFO  -      [WindowsApplication4] xpoint:1820
+2017-09-11 17:42:43,606 [9] INFO  -      [WindowsApplication4] ypoint:1162
+2017-09-11 17:42:43,620 [9] INFO  -      [WindowsApplication4] decoded text: 
+2017-09-11 17:42:43,620 [9] INFO  -      [WindowsApplication4] int to endian:WBsAAA==
+2017-09-11 17:42:43,620 [9] INFO  -      [WindowsApplication4] decoded text:X  
+2017-09-11 17:42:43,620 [9] INFO  -      [WindowsApplication4] int to endian:bxcAAA==
+2017-09-11 17:42:43,620 [9] INFO  -      [WindowsApplication4] decoded text:o  
+2017-09-11 17:42:43,620 [9] INFO  -      [WindowsApplication4] int to endian:AAAAAA==
+2017-09-11 17:42:43,620 [9] INFO  -      [WindowsApplication4] decoded text:    
+2017-09-11 17:42:43,620 [9] INFO  -      [WindowsApplication4] int to endian:AAAAAA==
+2017-09-11 17:42:43,620 [9] INFO  -      [WindowsApplication4] decoded text:    
+2017-09-11 17:42:43,620 [9] INFO  -      [WindowsApplication4] int to endian:AQAAAA==
+2017-09-11 17:42:43,620 [9] INFO  -      [WindowsApplication4] decoded text:   
+2017-09-11 17:42:43,620 [9] INFO  -      [WindowsApplication4] int to endian:AAAAAA==
+2017-09-11 17:42:43,620 [9] INFO  -      [WindowsApplication4] decoded text:    
+2017-09-11 17:42:43,620 [9] INFO  -      [WindowsApplication4] int to endian:MgAAAA==
+2017-09-11 17:42:43,620 [9] INFO  -      [WindowsApplication4] decoded text:2   
+2017-09-11 17:42:43,620 [9] INFO  -      [WindowsApplication4] int to endian:AQAAAA==
+2017-09-11 17:42:43,620 [9] INFO  -      [WindowsApplication4] decoded text:   
+2017-09-11 17:42:43,621 [9] INFO  -      [WindowsApplication4] int to endian:AgAAAA==
+2017-09-11 17:42:43,621 [9] INFO  -      [WindowsApplication4] decoded text:   
+2017-09-11 17:42:43,621 [9] INFO  -      [WindowsApplication4] in txt:!JH 328;C:\Users\kmgrepos\Desktop\charan\project\new2.plt               GT Smartstream                                                  TAGCUBE                                                         X  o                                                                                                                     2         IN;
+SP1;
+PU1804 1029;
+PD1808 1031;
+PD1813 1030;
+PD1818 1029;
+PD1827 1032;
+PD1832 1039;
+PD1838 1051;
+PD1844 1066;
+PD1849 1087;
+PD1854 1132;
+PU1813 1083;
+PD1810 1096;
+PD1812 1107;
+PD1816 1117;
+PD1823 1126;
+PD1833 1133;
+PD1845 1137;
+PD1857 1133;
+PD1870 1130;
+PD1870 1127;
+PD1875 1027;
+PD1899 1090;
+PD1912 1120;
+PD1924 1136;
+PD1935 1145;
+PD1923 1097;
+PD1913 1051;
+PD1912 1039;
+PD1909 1029;
+PD1920 1027;
+PD1929 1028;
+PU1959 1027;
+PD1949 1028;
+PD1936 1029;
+PD1918 1027;
+PU1941 1027;
+PD1944 1045;
+PD1953 1088;
+PD1963 1145;
+PU1943 1141;
+PD1966 1142;
+PD1984 1143;
+PU2103 1120;
+PD2104 1137;
+PD2108 1154;
+PD2091 1161;
+PD2082 1162;
+PD2069 1159;
+PD2056 1150;
+PD2044 1137;
+PD2033 1118;
+PD2027 1097;
+PD2024 1076;
+PD2025 1062;
+PD2028 1050;
+PD2034 1040;
+PD2041 1033;
+PD2050 1028;
+PD2059 1027;
+PD2066 1028;
+PD2074 1032;
+PD2087 1045;
+PD2093 1055;
+PD2092 1057;
+PU2226 1031;
+PD2218 1030;
+PD2211 1031;
+PD2208 1032;
+PD2220 1096;
+PD2232 1133;
+PD2237 1143;
+PD2243 1147;
+PD2250 1142;
+PD2255 1137;
+PD2259 1138;
+PU2145 1101;
+PD2142 1107;
+PD2141 1114;
+PD2142 1121;
+PD2148 1128;
+PD2159 1133;
+PD2172 1135;
+PD2164 1099;
+PD2155 1060;
+PD2149 1039;
+PD2143 1030;
+PD2137 1027;
+PD2134 1028;
+PD2131 1032;
+PD2125 1037;
+PU2219 1093;
+PD2163 1091;
+PU2386 1009;
+PD2379 1008;
+PD2368 1010;
+PD2372 1050;
+PD2378 1106;
+PD2382 1127;
+PD2375 1122;
+PD2363 1120;
+PD2348 1118;
+PD2334 1111;
+PD2326 1100;
+PD2322 1087;
+PD2324 1079;
+PD2328 1077;
+PU2375 1122;
+PD2352 1089;
+PD2331 1052;
+PD2313 1020;
+PD2300 1001;
+PD2294 996;
+PD2289 994;
+PD2282 996;
+PD2279 996;
+PD2276 994;
+PU2370 1047;
+PD2326 1047;
+PU2496 1122;
+PD2500 1145;
+PD2479 1143;
+PD2452 1143;
+PD2441 1142;
+PD2431 1139;
+PD2422 1134;
+PD2416 1127;
+PD2406 1110;
+PD2403 1091;
+PD2405 1076;
+PD2410 1072;
+PU2446 1137;
+PD2434 1079;
+PD2424 1042;
+PD2421 1038;
+PD2410 1033;
+PD2409 1028;
+PD2436 1030;
+PD2463 1028;
+PD2475 1027;
+PD2484 1028;
+PD2491 1033;
+PD2495 1040;
+PD2496 1047;
+PU2434 1086;
+PD2491 1086;
+PU2595 1042;
+PD2595 1047;
+PD2594 1052;
+PD2595 1056;
+PD2599 1057;
+PD2602 1055;
+PD2604 1048;
+PD2603 1040;
+PD2598 1033;
+PD2591 1029;
+PD2583 1027;
+PD2570 1028;
+PD2537 1031;
+PD2517 1029;
+PD2517 1029;
+PD2518 1034;
+PD2528 1039;
+PD2533 1048;
+PD2540 1074;
+PD2549 1113;
+PD2556 1128;
+PD2565 1139;
+PD2574 1145;
+PD2584 1147;
+PD2595 1143;
+PD2599 1135;
+PD2598 1131;
+PD2595 1130;
+PD2589 1134;
+PU1861 696;
+PD1860 691;
+PD1849 689;
+PD1836 690;
+PD1824 691;
+PD1804 688;
+PD1805 694;
+PD1821 700;
+PD1829 717;
+PD1845 779;
+PD1848 793;
+PD1846 796;
+PU1818 734;
+PD1817 730;
+PD1812 728;
+PD1807 730;
+PD1802 735;
+PD1797 745;
+PD1796 758;
+PD1798 774;
+PD1805 789;
+PD1817 803;
+PD1834 814;
+PD1853 821;
+PD1874 823;
+PD1892 821;
+PD1906 816;
+PD1916 807;
+PD1919 794;
+PD1916 781;
+PD1907 769;
+PD1893 759;
+PD1875 754;
+PD1845 757;
+PU1944 673;
+PD1948 681;
+PD1952 683;
+PD1957 681;
+PD1959 676;
+PD1957 670;
+PD1951 663;
+PD1943 659;
+PD1932 657;
+PD1921 658;
+PD1911 662;
+PD1892 679;
+PD1876 707;
+PD1866 738;
+PD1861 754;
+PD1859 754;
+PD1856 754;
+PU2136 679;
+PD2126 678;
+PD2111 680;
+PD2116 725;
+PD2125 789;
+PD2130 813;
+PD2120 807;
+PD2104 805;
+PD2083 803;
+PD2063 795;
+PD2051 783;
+PD2047 767;
+PD2050 759;
+PD2056 756;
+PU2120 807;
+PD2088 770;
+PD2059 727;
+PD2034 691;
+PD2016 670;
+PD2008 663;
+PD2000 661;
+PD1991 663;
+PD1987 664;
+PD1983 662;
+PU2113 722;
+PD2052 722;
+PU2215 806;
+PD2218 807;
+PD2221 805;
+PD2222 802;
+PD2221 796;
+PD2205 732;
+PD2196 711;
+PD2189 707;
+PD2179 705;
+PD2178 699;
+PD2198 701;
+PD2212 700;
+PD2230 699;
+PD2245 701;
+PD2259 706;
+PD2271 714;
+PD2279 724;
+PD2284 735;
+PD2286 747;
+PD2283 759;
+PD2275 769;
+PD2259 774;
+PD2217 774;
+PD2259 774;
+PD2272 780;
+PD2280 787;
+PD2285 797;
+PD2287 807;
+PD2285 817;
+PD2277 826;
+PD2264 832;
+PD2247 834;
+PD2223 831;
+PD2202 823;
+PD2184 811;
+PD2171 796;
+PD2162 778;
+PD2160 760;
+PD2161 747;
+PD2166 737;
+PD2172 730;
+PD2179 728;
+PU2217 812;
+PD2215 806;
+PU2320 700;
+PD2306 701;
+PD2288 702;
+PD2263 700;
+PU2295 699;
+PD2298 720;
+PD2311 769;
+PD2325 834;
+PU2298 829;
+PD2330 830;
+PD2354 832;
+PU2466 807;
+PD2469 807;
+PD2472 806;
+PD2473 804;
+PD2473 799;
+PD2464 763;
+PD2456 734;
+PD2448 712;
+PD2443 708;
+PD2431 706;
+PD2428 701;
+PD2443 701;
+PD2466 700;
+PD2486 699;
+PD2503 701;
+PD2521 707;
+PD2538 718;
+PD2552 734;
+PD2561 754;
+PD2564 776;
+PD2560 799;
+PD2546 817;
+PD2525 829;
+PD2498 833;
+PD2474 831;
+PD2453 823;
+PD2435 811;
+PD2421 795;
+PD2413 777;
+PD2410 758;
+PD2412 747;
+PD2418 736;
+PD2423 730;
+PD2429 728;
+SP0;
+SP1;
+SP0;
+
+
+2017-09-11 17:42:43,667 [9] INFO  -      [WindowsApplication4] in panel4
+2017-09-11 17:42:43,701 [9] INFO  -      [WindowsApplication4] ft1:Monotype Corsiva
+2017-09-11 17:42:43,701 [9] INFO  -      [WindowsApplication4] ft2:Monotype Corsiva
+2017-09-11 17:42:43,705 [9] INFO  -      [WindowsApplication4] ft1:Monotype Corsiva
+2017-09-11 17:42:43,705 [9] INFO  -      [WindowsApplication4] ft2:Monotype Corsiva
